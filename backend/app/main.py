@@ -27,7 +27,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        "https://pengembangan-sistem-data-terintegrasi-w7ky.onrender.com"
+        "https://pengembangan-sistem-data-terintegra.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
