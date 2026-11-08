@@ -1,0 +1,89 @@
+bahan_id,jenis_bahan_organik,kategori_bahan,jumlah_ketersediaan,satuan,kontinuitas,jarak_ke_produksi_km,kemudahan_pengumpulan
+BAH-004,Dedak,Bahan organik pertanian,150.0,kg,Kontinu,1.0,Sedang
+BAH-011,Kompos organik,Kompos,287.0,kg,Tidak kontinu,1.7,Mudah
+BAH-001,Limbah sayuran,Limbah pertanian/organik,424.0,kg,Musiman,2.5,Sulit
+BAH-008,Sumber karbon organik,Bahan organik,561.0,kg,Cukup kontinu,3.2,Sedang
+BAH-015,Jerami,Limbah pertanian,698.0,kg,Kontinu,3.9,Mudah
+BAH-005,Limbah pertanian,Limbah pertanian,835.0,kg,Tidak kontinu,4.7,Sulit
+BAH-012,Humus tanah,Bahan organik tanah,972.0,kg,Musiman,5.4,Sedang
+BAH-002,Sisa tanaman pertanian,Limbah pertanian,1109.0,kg,Cukup kontinu,6.1,Mudah
+BAH-009,Bahan fermentasi organik,Bahan fermentasi,1246.0,kg,Kontinu,6.8,Sulit
+BAH-016,Daun mimba,Bahan nabati,1383.0,kg,Tidak kontinu,7.6,Sedang
+BAH-006,Bahan organik fermentasi,Bahan fermentasi,169.0,kg,Musiman,8.3,Mudah
+BAH-013,Bahan tanaman fermentasi,Bahan fermentasi,306.0,kg,Cukup kontinu,9.0,Sulit
+BAH-003,Bahan organik rumah tangga,Limbah rumah tangga,443.0,kg,Kontinu,9.8,Sedang
+BAH-010,Kompos tanaman,Kompos,580.0,kg,Tidak kontinu,10.5,Mudah
+BAH-017,Bahan nabati lokal,Bahan nabati,717.0,kg,Musiman,1.7,Sulit
+BAH-007,Molase,Bahan fermentasi,854.0,kg,Cukup kontinu,2.4,Sedang
+BAH-014,Kotoran ternak,Limbah peternakan,991.0,kg,Kontinu,3.2,Mudah
+BAH-004,Dedak,Bahan organik pertanian,1128.0,kg,Tidak kontinu,3.9,Sulit
+BAH-011,Kompos organik,Kompos,1265.0,kg,Musiman,4.6,Sedang
+BAH-001,Limbah sayuran,Limbah pertanian/organik,1402.0,kg,Cukup kontinu,5.4,Mudah
+BAH-008,Sumber karbon organik,Bahan organik,188.0,kg,Kontinu,6.1,Sulit
+BAH-015,Jerami,Limbah pertanian,325.0,kg,Tidak kontinu,6.8,Sedang
+BAH-005,Limbah pertanian,Limbah pertanian,462.0,kg,Musiman,7.6,Mudah
+BAH-012,Humus tanah,Bahan organik tanah,599.0,kg,Cukup kontinu,8.3,Sulit
+BAH-002,Sisa tanaman pertanian,Limbah pertanian,736.0,kg,Kontinu,9.0,Sedang
+BAH-009,Bahan fermentasi organik,Bahan fermentasi,873.0,kg,Tidak kontinu,9.8,Mudah
+BAH-016,Daun mimba,Bahan nabati,1010.0,kg,Musiman,10.5,Sulit
+BAH-006,Bahan organik fermentasi,Bahan fermentasi,1147.0,kg,Cukup kontinu,1.7,Sedang
+BAH-013,Bahan tanaman fermentasi,Bahan fermentasi,1284.0,kg,Kontinu,2.4,Mudah
+BAH-003,Bahan organik rumah tangga,Limbah rumah tangga,1421.0,kg,Tidak kontinu,3.2,Sulit
+BAH-010,Kompos tanaman,Kompos,207.0,kg,Musiman,3.9,Sedang
+BAH-017,Bahan nabati lokal,Bahan nabati,344.0,kg,Cukup kontinu,4.6,Mudah
+BAH-007,Molase,Bahan fermentasi,481.0,kg,Kontinu,5.4,Sulit
+BAH-014,Kotoran ternak,Limbah peternakan,618.0,kg,Tidak kontinu,6.1,Sedang
+BAH-004,Dedak,Bahan organik pertanian,755.0,kg,Musiman,6.8,Mudah
+BAH-011,Kompos organik,Kompos,892.0,kg,Cukup kontinu,7.6,Sulit
+BAH-001,Limbah sayuran,Limbah pertanian/organik,1029.0,kg,Kontinu,8.3,Sedang
+BAH-008,Sumber karbon organik,Bahan organik,1166.0,kg,Tidak kontinu,9.0,Mudah
+BAH-015,Jerami,Limbah pertanian,1303.0,kg,Musiman,9.7,Sulit
+BAH-005,Limbah pertanian,Limbah pertanian,1440.0,kg,Cukup kontinu,10.5,Sedang
+BAH-012,Humus tanah,Bahan organik tanah,226.0,kg,Kontinu,1.7,Mudah
+BAH-002,Sisa tanaman pertanian,Limbah pertanian,363.0,kg,Tidak kontinu,2.4,Sulit
+BAH-009,Bahan fermentasi organik,Bahan fermentasi,500.0,kg,Musiman,3.2,Sedang
+BAH-016,Daun mimba,Bahan nabati,637.0,kg,Cukup kontinu,3.9,Mudah
+BAH-006,Bahan organik fermentasi,Bahan fermentasi,774.0,kg,Kontinu,4.6,Sulit
+BAH-013,Bahan tanaman fermentasi,Bahan fermentasi,911.0,kg,Tidak kontinu,5.4,Sedang
+BAH-003,Bahan organik rumah tangga,Limbah rumah tangga,1048.0,kg,Musiman,6.1,Mudah
+BAH-010,Kompos tanaman,Kompos,1185.0,kg,Cukup kontinu,6.8,Sulit
+BAH-017,Bahan nabati lokal,Bahan nabati,1322.0,kg,Kontinu,7.5,Sedang
+BAH-007,Molase,Bahan fermentasi,1459.0,kg,Tidak kontinu,8.3,Mudah
+BAH-014,Kotoran ternak,Limbah peternakan,245.0,kg,Musiman,9.0,Sulit
+BAH-004,Dedak,Bahan organik pertanian,382.0,kg,Cukup kontinu,9.7,Sedang
+BAH-011,Kompos organik,Kompos,519.0,kg,Kontinu,10.5,Mudah
+BAH-001,Limbah sayuran,Limbah pertanian/organik,656.0,kg,Tidak kontinu,1.7,Sulit
+BAH-008,Sumber karbon organik,Bahan organik,793.0,kg,Musiman,2.4,Sedang
+BAH-015,Jerami,Limbah pertanian,930.0,kg,Cukup kontinu,3.1,Mudah
+BAH-005,Limbah pertanian,Limbah pertanian,1067.0,kg,Kontinu,3.9,Sulit
+BAH-012,Humus tanah,Bahan organik tanah,1204.0,kg,Tidak kontinu,4.6,Sedang
+BAH-002,Sisa tanaman pertanian,Limbah pertanian,1341.0,kg,Musiman,5.3,Mudah
+BAH-009,Bahan fermentasi organik,Bahan fermentasi,1478.0,kg,Cukup kontinu,6.1,Sulit
+BAH-016,Daun mimba,Bahan nabati,264.0,kg,Kontinu,6.8,Sedang
+BAH-006,Bahan organik fermentasi,Bahan fermentasi,401.0,kg,Tidak kontinu,7.5,Mudah
+BAH-013,Bahan tanaman fermentasi,Bahan fermentasi,538.0,kg,Musiman,8.3,Sulit
+BAH-003,Bahan organik rumah tangga,Limbah rumah tangga,675.0,kg,Cukup kontinu,9.0,Sedang
+BAH-010,Kompos tanaman,Kompos,812.0,kg,Kontinu,9.7,Mudah
+BAH-017,Bahan nabati lokal,Bahan nabati,949.0,kg,Tidak kontinu,10.4,Sulit
+BAH-007,Molase,Bahan fermentasi,1086.0,kg,Musiman,1.7,Sedang
+BAH-014,Kotoran ternak,Limbah peternakan,1223.0,kg,Cukup kontinu,2.4,Mudah
+BAH-004,Dedak,Bahan organik pertanian,1360.0,kg,Kontinu,3.1,Sulit
+BAH-011,Kompos organik,Kompos,1497.0,kg,Tidak kontinu,3.9,Sedang
+BAH-001,Limbah sayuran,Limbah pertanian/organik,283.0,kg,Musiman,4.6,Mudah
+BAH-008,Sumber karbon organik,Bahan organik,420.0,kg,Cukup kontinu,5.3,Sulit
+BAH-015,Jerami,Limbah pertanian,557.0,kg,Kontinu,6.1,Sedang
+BAH-005,Limbah pertanian,Limbah pertanian,694.0,kg,Tidak kontinu,6.8,Mudah
+BAH-012,Humus tanah,Bahan organik tanah,831.0,kg,Musiman,7.5,Sulit
+BAH-002,Sisa tanaman pertanian,Limbah pertanian,968.0,kg,Cukup kontinu,8.2,Sedang
+BAH-009,Bahan fermentasi organik,Bahan fermentasi,1105.0,kg,Kontinu,9.0,Mudah
+BAH-016,Daun mimba,Bahan nabati,1242.0,kg,Tidak kontinu,9.7,Sulit
+BAH-006,Bahan organik fermentasi,Bahan fermentasi,1379.0,kg,Musiman,10.4,Sedang
+BAH-013,Bahan tanaman fermentasi,Bahan fermentasi,165.0,kg,Cukup kontinu,1.7,Mudah
+BAH-003,Bahan organik rumah tangga,Limbah rumah tangga,302.0,kg,Kontinu,2.4,Sulit
+BAH-010,Kompos tanaman,Kompos,439.0,kg,Tidak kontinu,3.1,Sedang
+BAH-017,Bahan nabati lokal,Bahan nabati,576.0,kg,Musiman,3.9,Mudah
+BAH-007,Molase,Bahan fermentasi,713.0,kg,Cukup kontinu,4.6,Sulit
+BAH-014,Kotoran ternak,Limbah peternakan,850.0,kg,Kontinu,5.3,Sedang
+BAH-004,Dedak,Bahan organik pertanian,987.0,kg,Tidak kontinu,6.0,Mudah
+BAH-011,Kompos organik,Kompos,1124.0,kg,Musiman,6.8,Sulit
+BAH-001,Limbah sayuran,Limbah pertanian/organik,1261.0,kg,Cukup kontinu,7.5,Sedang

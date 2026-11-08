@@ -1,0 +1,793 @@
+﻿Penjualan_id,Produk_id,Bulan,Produk,Jumlah_Terjual,Harga_Satuan,Total_Penjualan,Satuan,Kanal,Status_Data
+SALE-0001,PRD-001,2020-01-01,Probiotik GB Proquatic,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0002,PRD-001,2020-02-01,Probiotik GB Proquatic,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0003,PRD-001,2020-03-01,Probiotik GB Proquatic,14,45000,630000,Liter,Shopee,Sintetis
+SALE-0004,PRD-001,2020-04-01,Probiotik GB Proquatic,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0005,PRD-001,2020-05-01,Probiotik GB Proquatic,15,45000,675000,Liter,Shopee,Sintetis
+SALE-0006,PRD-001,2020-06-01,Probiotik GB Proquatic,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0007,PRD-001,2020-07-01,Probiotik GB Proquatic,14,45000,630000,Liter,Shopee,Sintetis
+SALE-0008,PRD-001,2020-08-01,Probiotik GB Proquatic,20,45000,900000,Liter,Shopee,Sintetis
+SALE-0009,PRD-001,2020-09-01,Probiotik GB Proquatic,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0010,PRD-001,2020-10-01,Probiotik GB Proquatic,25,45000,1125000,Liter,Shopee,Sintetis
+SALE-0011,PRD-001,2020-11-01,Probiotik GB Proquatic,27,45000,1215000,Liter,Shopee,Sintetis
+SALE-0012,PRD-001,2020-12-01,Probiotik GB Proquatic,14,45000,630000,Liter,Shopee,Sintetis
+SALE-0013,PRD-002,2020-01-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0014,PRD-002,2020-02-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0015,PRD-002,2020-03-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0016,PRD-002,2020-04-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0017,PRD-002,2020-05-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0018,PRD-002,2020-06-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0019,PRD-002,2020-07-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0020,PRD-002,2020-08-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0021,PRD-002,2020-09-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0022,PRD-002,2020-10-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0023,PRD-002,2020-11-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0024,PRD-002,2020-12-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0025,PRD-003,2020-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0026,PRD-003,2020-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0027,PRD-003,2020-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0028,PRD-003,2020-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0029,PRD-003,2020-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0030,PRD-003,2020-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0031,PRD-003,2020-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0032,PRD-003,2020-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0033,PRD-003,2020-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0034,PRD-003,2020-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0035,PRD-003,2020-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0036,PRD-003,2020-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0037,PRD-004,2020-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0038,PRD-004,2020-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0039,PRD-004,2020-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0040,PRD-004,2020-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0041,PRD-004,2020-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0042,PRD-004,2020-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0043,PRD-004,2020-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0044,PRD-004,2020-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0045,PRD-004,2020-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0046,PRD-004,2020-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0047,PRD-004,2020-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0048,PRD-004,2020-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0049,PRD-005,2020-01-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0050,PRD-005,2020-02-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0051,PRD-005,2020-03-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0052,PRD-005,2020-04-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0053,PRD-005,2020-05-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0054,PRD-005,2020-06-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0055,PRD-005,2020-07-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0056,PRD-005,2020-08-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0057,PRD-005,2020-09-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0058,PRD-005,2020-10-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0059,PRD-005,2020-11-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0060,PRD-005,2020-12-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0061,PRD-006,2020-01-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0062,PRD-006,2020-02-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0063,PRD-006,2020-03-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0064,PRD-006,2020-04-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0065,PRD-006,2020-05-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0066,PRD-006,2020-06-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0067,PRD-006,2020-07-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0068,PRD-006,2020-08-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0069,PRD-006,2020-09-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0070,PRD-006,2020-10-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0071,PRD-006,2020-11-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0072,PRD-006,2020-12-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0073,PRD-007,2020-01-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0074,PRD-007,2020-02-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0075,PRD-007,2020-03-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0076,PRD-007,2020-04-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0077,PRD-007,2020-05-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0078,PRD-007,2020-06-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0079,PRD-007,2020-07-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0080,PRD-007,2020-08-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0081,PRD-007,2020-09-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0082,PRD-007,2020-10-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0083,PRD-007,2020-11-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0084,PRD-007,2020-12-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0085,PRD-008,2020-01-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0086,PRD-008,2020-02-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0087,PRD-008,2020-03-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0088,PRD-008,2020-04-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0089,PRD-008,2020-05-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0090,PRD-008,2020-06-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0091,PRD-008,2020-07-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0092,PRD-008,2020-08-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0093,PRD-008,2020-09-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0094,PRD-008,2020-10-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0095,PRD-008,2020-11-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0096,PRD-008,2020-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0097,PRD-009,2020-01-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0098,PRD-009,2020-02-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0099,PRD-009,2020-03-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0100,PRD-009,2020-04-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0101,PRD-009,2020-05-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0102,PRD-009,2020-06-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0103,PRD-009,2020-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0104,PRD-009,2020-08-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0105,PRD-009,2020-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0106,PRD-009,2020-10-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0107,PRD-009,2020-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0108,PRD-009,2020-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0109,PRD-010,2020-01-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0110,PRD-010,2020-02-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0111,PRD-010,2020-03-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0112,PRD-010,2020-04-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0113,PRD-010,2020-05-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0114,PRD-010,2020-06-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0115,PRD-010,2020-07-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0116,PRD-010,2020-08-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0117,PRD-010,2020-09-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0118,PRD-010,2020-10-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0119,PRD-010,2020-11-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0120,PRD-010,2020-12-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0121,PRD-011,2020-01-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0122,PRD-011,2020-02-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0123,PRD-011,2020-03-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0124,PRD-011,2020-04-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0125,PRD-011,2020-05-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0126,PRD-011,2020-06-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0127,PRD-011,2020-07-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0128,PRD-011,2020-08-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0129,PRD-011,2020-09-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0130,PRD-011,2020-10-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0131,PRD-011,2020-11-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0132,PRD-011,2020-12-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0133,PRD-001,2021-01-01,Probiotik GB Proquatic,16,45000,720000,Liter,Shopee,Sintetis
+SALE-0134,PRD-001,2021-02-01,Probiotik GB Proquatic,9,45000,405000,Liter,Shopee,Sintetis
+SALE-0135,PRD-001,2021-03-01,Probiotik GB Proquatic,17,45000,765000,Liter,Shopee,Sintetis
+SALE-0136,PRD-001,2021-04-01,Probiotik GB Proquatic,16,45000,720000,Liter,Shopee,Sintetis
+SALE-0137,PRD-001,2021-05-01,Probiotik GB Proquatic,9,45000,405000,Liter,Shopee,Sintetis
+SALE-0138,PRD-001,2021-06-01,Probiotik GB Proquatic,23,45000,1035000,Liter,Shopee,Sintetis
+SALE-0139,PRD-001,2021-07-01,Probiotik GB Proquatic,35,45000,1575000,Liter,Shopee,Sintetis
+SALE-0140,PRD-001,2021-08-01,Probiotik GB Proquatic,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0141,PRD-001,2021-09-01,Probiotik GB Proquatic,15,45000,675000,Liter,Shopee,Sintetis
+SALE-0142,PRD-001,2021-10-01,Probiotik GB Proquatic,20,45000,900000,Liter,Shopee,Sintetis
+SALE-0143,PRD-001,2021-11-01,Probiotik GB Proquatic,27,45000,1215000,Liter,Shopee,Sintetis
+SALE-0144,PRD-001,2021-12-01,Probiotik GB Proquatic,17,45000,765000,Liter,Shopee,Sintetis
+SALE-0145,PRD-002,2021-01-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0146,PRD-002,2021-02-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0147,PRD-002,2021-03-01,Probiotik GB Propunic,6,45500,273000,Liter,Shopee,Sintetis
+SALE-0148,PRD-002,2021-04-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0149,PRD-002,2021-05-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0150,PRD-002,2021-06-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0151,PRD-002,2021-07-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0152,PRD-002,2021-08-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0153,PRD-002,2021-09-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0154,PRD-002,2021-10-01,Probiotik GB Propunic,6,45500,273000,Liter,Shopee,Sintetis
+SALE-0155,PRD-002,2021-11-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0156,PRD-002,2021-12-01,Probiotik GB Propunic,9,45500,409500,Liter,Shopee,Sintetis
+SALE-0157,PRD-003,2021-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,12,45000,540000,Liter,Shopee,Sintetis
+SALE-0158,PRD-003,2021-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0159,PRD-003,2021-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0160,PRD-003,2021-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0161,PRD-003,2021-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,14,45000,630000,Liter,Shopee,Sintetis
+SALE-0162,PRD-003,2021-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,16,45000,720000,Liter,Shopee,Sintetis
+SALE-0163,PRD-003,2021-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,8,45000,360000,Liter,Shopee,Sintetis
+SALE-0164,PRD-003,2021-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0165,PRD-003,2021-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0166,PRD-003,2021-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,3,45000,135000,Liter,Shopee,Sintetis
+SALE-0167,PRD-003,2021-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,3,45000,135000,Liter,Shopee,Sintetis
+SALE-0168,PRD-003,2021-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,5,45000,225000,Liter,Shopee,Sintetis
+SALE-0169,PRD-004,2021-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0170,PRD-004,2021-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0171,PRD-004,2021-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0172,PRD-004,2021-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0173,PRD-004,2021-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0174,PRD-004,2021-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0175,PRD-004,2021-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0176,PRD-004,2021-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0177,PRD-004,2021-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0178,PRD-004,2021-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0179,PRD-004,2021-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0180,PRD-004,2021-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0181,PRD-005,2021-01-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0182,PRD-005,2021-02-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0183,PRD-005,2021-03-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0184,PRD-005,2021-04-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0185,PRD-005,2021-05-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0186,PRD-005,2021-06-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0187,PRD-005,2021-07-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0188,PRD-005,2021-08-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0189,PRD-005,2021-09-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0190,PRD-005,2021-10-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0191,PRD-005,2021-11-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0192,PRD-005,2021-12-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0193,PRD-006,2021-01-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0194,PRD-006,2021-02-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0195,PRD-006,2021-03-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0196,PRD-006,2021-04-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0197,PRD-006,2021-05-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0198,PRD-006,2021-06-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0199,PRD-006,2021-07-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0200,PRD-006,2021-08-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0201,PRD-006,2021-09-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0202,PRD-006,2021-10-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0203,PRD-006,2021-11-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0204,PRD-006,2021-12-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0205,PRD-007,2021-01-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0206,PRD-007,2021-02-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0207,PRD-007,2021-03-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0208,PRD-007,2021-04-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0209,PRD-007,2021-05-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0210,PRD-007,2021-06-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0211,PRD-007,2021-07-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0212,PRD-007,2021-08-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0213,PRD-007,2021-09-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0214,PRD-007,2021-10-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0215,PRD-007,2021-11-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0216,PRD-007,2021-12-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0217,PRD-008,2021-01-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0218,PRD-008,2021-02-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0219,PRD-008,2021-03-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0220,PRD-008,2021-04-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0221,PRD-008,2021-05-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0222,PRD-008,2021-06-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0223,PRD-008,2021-07-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0224,PRD-008,2021-08-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0225,PRD-008,2021-09-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0226,PRD-008,2021-10-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0227,PRD-008,2021-11-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0228,PRD-008,2021-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0229,PRD-009,2021-01-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0230,PRD-009,2021-02-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0231,PRD-009,2021-03-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0232,PRD-009,2021-04-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0233,PRD-009,2021-05-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0234,PRD-009,2021-06-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0235,PRD-009,2021-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0236,PRD-009,2021-08-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0237,PRD-009,2021-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0238,PRD-009,2021-10-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0239,PRD-009,2021-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0240,PRD-009,2021-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0241,PRD-010,2021-01-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0242,PRD-010,2021-02-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0243,PRD-010,2021-03-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0244,PRD-010,2021-04-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0245,PRD-010,2021-05-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0246,PRD-010,2021-06-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0247,PRD-010,2021-07-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0248,PRD-010,2021-08-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0249,PRD-010,2021-09-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0250,PRD-010,2021-10-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0251,PRD-010,2021-11-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0252,PRD-010,2021-12-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0253,PRD-011,2021-01-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0254,PRD-011,2021-02-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0255,PRD-011,2021-03-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0256,PRD-011,2021-04-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0257,PRD-011,2021-05-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0258,PRD-011,2021-06-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0259,PRD-011,2021-07-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0260,PRD-011,2021-08-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0261,PRD-011,2021-09-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0262,PRD-011,2021-10-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0263,PRD-011,2021-11-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0264,PRD-011,2021-12-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0265,PRD-001,2022-01-01,Probiotik GB Proquatic,60,45000,2700000,Liter,Shopee,Sintetis
+SALE-0266,PRD-001,2022-02-01,Probiotik GB Proquatic,40,45000,1800000,Liter,Shopee,Sintetis
+SALE-0267,PRD-001,2022-03-01,Probiotik GB Proquatic,19,45000,855000,Liter,Shopee,Sintetis
+SALE-0268,PRD-001,2022-04-01,Probiotik GB Proquatic,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0269,PRD-001,2022-05-01,Probiotik GB Proquatic,38,45000,1710000,Liter,Shopee,Sintetis
+SALE-0270,PRD-001,2022-06-01,Probiotik GB Proquatic,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0271,PRD-001,2022-07-01,Probiotik GB Proquatic,33,45000,1485000,Liter,Shopee,Sintetis
+SALE-0272,PRD-001,2022-08-01,Probiotik GB Proquatic,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0273,PRD-001,2022-09-01,Probiotik GB Proquatic,45,45000,2025000,Liter,Shopee,Sintetis
+SALE-0274,PRD-001,2022-10-01,Probiotik GB Proquatic,20,45000,900000,Liter,Shopee,Sintetis
+SALE-0275,PRD-001,2022-11-01,Probiotik GB Proquatic,50,45000,2250000,Liter,Shopee,Sintetis
+SALE-0276,PRD-001,2022-12-01,Probiotik GB Proquatic,17,45000,765000,Liter,Shopee,Sintetis
+SALE-0277,PRD-002,2022-01-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0278,PRD-002,2022-02-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0279,PRD-002,2022-03-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0280,PRD-002,2022-04-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0281,PRD-002,2022-05-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0282,PRD-002,2022-06-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0283,PRD-002,2022-07-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0284,PRD-002,2022-08-01,Probiotik GB Propunic,15,45500,682500,Liter,Shopee,Sintetis
+SALE-0285,PRD-002,2022-09-01,Probiotik GB Propunic,7,45500,318500,Liter,Shopee,Sintetis
+SALE-0286,PRD-002,2022-10-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0287,PRD-002,2022-11-01,Probiotik GB Propunic,17,45500,773500,Liter,Shopee,Sintetis
+SALE-0288,PRD-002,2022-12-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0289,PRD-003,2022-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,21,45000,945000,Liter,Shopee,Sintetis
+SALE-0290,PRD-003,2022-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,3,45000,135000,Liter,Shopee,Sintetis
+SALE-0291,PRD-003,2022-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,30,45000,1350000,Liter,Shopee,Sintetis
+SALE-0292,PRD-003,2022-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,2,45000,90000,Liter,Shopee,Sintetis
+SALE-0293,PRD-003,2022-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,25,45000,1125000,Liter,Shopee,Sintetis
+SALE-0294,PRD-003,2022-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,12,45000,540000,Liter,Shopee,Sintetis
+SALE-0295,PRD-003,2022-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,14,45000,630000,Liter,Shopee,Sintetis
+SALE-0296,PRD-003,2022-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0297,PRD-003,2022-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,9,45000,405000,Liter,Shopee,Sintetis
+SALE-0298,PRD-003,2022-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0299,PRD-003,2022-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0300,PRD-003,2022-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0301,PRD-004,2022-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0302,PRD-004,2022-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0303,PRD-004,2022-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0304,PRD-004,2022-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0305,PRD-004,2022-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0306,PRD-004,2022-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0307,PRD-004,2022-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0308,PRD-004,2022-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0309,PRD-004,2022-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0310,PRD-004,2022-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0311,PRD-004,2022-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0312,PRD-004,2022-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0313,PRD-005,2022-01-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0314,PRD-005,2022-02-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0315,PRD-005,2022-03-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0316,PRD-005,2022-04-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0317,PRD-005,2022-05-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0318,PRD-005,2022-06-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0319,PRD-005,2022-07-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0320,PRD-005,2022-08-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0321,PRD-005,2022-09-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0322,PRD-005,2022-10-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0323,PRD-005,2022-11-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0324,PRD-005,2022-12-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0325,PRD-006,2022-01-01,Pendawa Subur Pertumbuhan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0326,PRD-006,2022-02-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0327,PRD-006,2022-03-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0328,PRD-006,2022-04-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0329,PRD-006,2022-05-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0330,PRD-006,2022-06-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0331,PRD-006,2022-07-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0332,PRD-006,2022-08-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0333,PRD-006,2022-09-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0334,PRD-006,2022-10-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0335,PRD-006,2022-11-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0336,PRD-006,2022-12-01,Pendawa Subur Pertumbuhan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0337,PRD-007,2022-01-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0338,PRD-007,2022-02-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0339,PRD-007,2022-03-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0340,PRD-007,2022-04-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0341,PRD-007,2022-05-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0342,PRD-007,2022-06-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0343,PRD-007,2022-07-01,Beva Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0344,PRD-007,2022-08-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0345,PRD-007,2022-09-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0346,PRD-007,2022-10-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0347,PRD-007,2022-11-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0348,PRD-007,2022-12-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0349,PRD-008,2022-01-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0350,PRD-008,2022-02-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0351,PRD-008,2022-03-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0352,PRD-008,2022-04-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0353,PRD-008,2022-05-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0354,PRD-008,2022-06-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0355,PRD-008,2022-07-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0356,PRD-008,2022-08-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0357,PRD-008,2022-09-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0358,PRD-008,2022-10-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0359,PRD-008,2022-11-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0360,PRD-008,2022-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0361,PRD-009,2022-01-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0362,PRD-009,2022-02-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0363,PRD-009,2022-03-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0364,PRD-009,2022-04-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0365,PRD-009,2022-05-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0366,PRD-009,2022-06-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0367,PRD-009,2022-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0368,PRD-009,2022-08-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0369,PRD-009,2022-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0370,PRD-009,2022-10-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0371,PRD-009,2022-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0372,PRD-009,2022-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0373,PRD-010,2022-01-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0374,PRD-010,2022-02-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0375,PRD-010,2022-03-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0376,PRD-010,2022-04-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0377,PRD-010,2022-05-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0378,PRD-010,2022-06-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0379,PRD-010,2022-07-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0380,PRD-010,2022-08-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0381,PRD-010,2022-09-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0382,PRD-010,2022-10-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0383,PRD-010,2022-11-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0384,PRD-010,2022-12-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0385,PRD-011,2022-01-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0386,PRD-011,2022-02-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0387,PRD-011,2022-03-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0388,PRD-011,2022-04-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0389,PRD-011,2022-05-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0390,PRD-011,2022-06-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0391,PRD-011,2022-07-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0392,PRD-011,2022-08-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0393,PRD-011,2022-09-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0394,PRD-011,2022-10-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0395,PRD-011,2022-11-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0396,PRD-011,2022-12-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0397,PRD-001,2023-01-01,Probiotik GB Proquatic,40,45000,1800000,Liter,Shopee,Sintetis
+SALE-0398,PRD-001,2023-02-01,Probiotik GB Proquatic,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0399,PRD-001,2023-03-01,Probiotik GB Proquatic,30,45000,1350000,Liter,Shopee,Sintetis
+SALE-0400,PRD-001,2023-04-01,Probiotik GB Proquatic,25,45000,1125000,Liter,Shopee,Sintetis
+SALE-0401,PRD-001,2023-05-01,Probiotik GB Proquatic,19,45000,855000,Liter,Shopee,Sintetis
+SALE-0402,PRD-001,2023-06-01,Probiotik GB Proquatic,40,45000,1800000,Liter,Shopee,Sintetis
+SALE-0403,PRD-001,2023-07-01,Probiotik GB Proquatic,50,45000,2250000,Liter,Shopee,Sintetis
+SALE-0404,PRD-001,2023-08-01,Probiotik GB Proquatic,35,45000,1575000,Liter,Shopee,Sintetis
+SALE-0405,PRD-001,2023-09-01,Probiotik GB Proquatic,16,45000,720000,Liter,Shopee,Sintetis
+SALE-0406,PRD-001,2023-10-01,Probiotik GB Proquatic,37,45000,1665000,Liter,Shopee,Sintetis
+SALE-0407,PRD-001,2023-11-01,Probiotik GB Proquatic,27,45000,1215000,Liter,Shopee,Sintetis
+SALE-0408,PRD-001,2023-12-01,Probiotik GB Proquatic,16,45000,720000,Liter,Shopee,Sintetis
+SALE-0409,PRD-002,2023-01-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0410,PRD-002,2023-02-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0411,PRD-002,2023-03-01,Probiotik GB Propunic,6,45500,273000,Liter,Shopee,Sintetis
+SALE-0412,PRD-002,2023-04-01,Probiotik GB Propunic,25,45500,1137500,Liter,Shopee,Sintetis
+SALE-0413,PRD-002,2023-05-01,Probiotik GB Propunic,6,45500,273000,Liter,Shopee,Sintetis
+SALE-0414,PRD-002,2023-06-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0415,PRD-002,2023-07-01,Probiotik GB Propunic,0,45500,0,Liter,Shopee,Sintetis
+SALE-0416,PRD-002,2023-08-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0417,PRD-002,2023-09-01,Probiotik GB Propunic,11,45500,500500,Liter,Shopee,Sintetis
+SALE-0418,PRD-002,2023-10-01,Probiotik GB Propunic,20,45500,910000,Liter,Shopee,Sintetis
+SALE-0419,PRD-002,2023-11-01,Probiotik GB Propunic,10,45500,455000,Liter,Shopee,Sintetis
+SALE-0420,PRD-002,2023-12-01,Probiotik GB Propunic,0,45500,0,Liter,Shopee,Sintetis
+SALE-0421,PRD-003,2023-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,20,45000,900000,Liter,Shopee,Sintetis
+SALE-0422,PRD-003,2023-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,12,45000,540000,Liter,Shopee,Sintetis
+SALE-0423,PRD-003,2023-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,18,45000,810000,Liter,Shopee,Sintetis
+SALE-0424,PRD-003,2023-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,1,45000,45000,Liter,Shopee,Sintetis
+SALE-0425,PRD-003,2023-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,13,45000,585000,Liter,Shopee,Sintetis
+SALE-0426,PRD-003,2023-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,9,45000,405000,Liter,Shopee,Sintetis
+SALE-0427,PRD-003,2023-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,11,45000,495000,Liter,Shopee,Sintetis
+SALE-0428,PRD-003,2023-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,18,45000,810000,Liter,Shopee,Sintetis
+SALE-0429,PRD-003,2023-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0430,PRD-003,2023-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,4,45000,180000,Liter,Shopee,Sintetis
+SALE-0431,PRD-003,2023-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,19,45000,855000,Liter,Shopee,Sintetis
+SALE-0432,PRD-003,2023-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,8,45000,360000,Liter,Shopee,Sintetis
+SALE-0433,PRD-004,2023-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0434,PRD-004,2023-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0435,PRD-004,2023-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0436,PRD-004,2023-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0437,PRD-004,2023-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0438,PRD-004,2023-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0439,PRD-004,2023-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0440,PRD-004,2023-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0441,PRD-004,2023-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0442,PRD-004,2023-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0443,PRD-004,2023-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0444,PRD-004,2023-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0445,PRD-005,2023-01-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0446,PRD-005,2023-02-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0447,PRD-005,2023-03-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0448,PRD-005,2023-04-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0449,PRD-005,2023-05-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0450,PRD-005,2023-06-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0451,PRD-005,2023-07-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0452,PRD-005,2023-08-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0453,PRD-005,2023-09-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0454,PRD-005,2023-10-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0455,PRD-005,2023-11-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0456,PRD-005,2023-12-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0457,PRD-006,2023-01-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0458,PRD-006,2023-02-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0459,PRD-006,2023-03-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0460,PRD-006,2023-04-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0461,PRD-006,2023-05-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0462,PRD-006,2023-06-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0463,PRD-006,2023-07-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0464,PRD-006,2023-08-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0465,PRD-006,2023-09-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0466,PRD-006,2023-10-01,Pendawa Subur Pertumbuhan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0467,PRD-006,2023-11-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0468,PRD-006,2023-12-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0469,PRD-007,2023-01-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0470,PRD-007,2023-02-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0471,PRD-007,2023-03-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0472,PRD-007,2023-04-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0473,PRD-007,2023-05-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0474,PRD-007,2023-06-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0475,PRD-007,2023-07-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0476,PRD-007,2023-08-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0477,PRD-007,2023-09-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0478,PRD-007,2023-10-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0479,PRD-007,2023-11-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0480,PRD-007,2023-12-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0481,PRD-008,2023-01-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0482,PRD-008,2023-02-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0483,PRD-008,2023-03-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0484,PRD-008,2023-04-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0485,PRD-008,2023-05-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0486,PRD-008,2023-06-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0487,PRD-008,2023-07-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0488,PRD-008,2023-08-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0489,PRD-008,2023-09-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0490,PRD-008,2023-10-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0491,PRD-008,2023-11-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0492,PRD-008,2023-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0493,PRD-009,2023-01-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0494,PRD-009,2023-02-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0495,PRD-009,2023-03-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0496,PRD-009,2023-04-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0497,PRD-009,2023-05-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0498,PRD-009,2023-06-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0499,PRD-009,2023-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0500,PRD-009,2023-08-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0501,PRD-009,2023-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0502,PRD-009,2023-10-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0503,PRD-009,2023-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0504,PRD-009,2023-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0505,PRD-010,2023-01-01,Pendawa Subur Pembungaan,8,49500,396000,Liter,Shopee,Sintetis
+SALE-0506,PRD-010,2023-02-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0507,PRD-010,2023-03-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0508,PRD-010,2023-04-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0509,PRD-010,2023-05-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0510,PRD-010,2023-06-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0511,PRD-010,2023-07-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0512,PRD-010,2023-08-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0513,PRD-010,2023-09-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0514,PRD-010,2023-10-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0515,PRD-010,2023-11-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0516,PRD-010,2023-12-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0517,PRD-011,2023-01-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0518,PRD-011,2023-02-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0519,PRD-011,2023-03-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0520,PRD-011,2023-04-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0521,PRD-011,2023-05-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0522,PRD-011,2023-06-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0523,PRD-011,2023-07-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0524,PRD-011,2023-08-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0525,PRD-011,2023-09-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0526,PRD-011,2023-10-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0527,PRD-011,2023-11-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0528,PRD-011,2023-12-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0529,PRD-001,2024-01-01,Probiotik GB Proquatic,40,45000,1800000,Liter,Shopee,Sintetis
+SALE-0530,PRD-001,2024-02-01,Probiotik GB Proquatic,43,45000,1935000,Liter,Shopee,Sintetis
+SALE-0531,PRD-001,2024-03-01,Probiotik GB Proquatic,22,45000,990000,Liter,Shopee,Sintetis
+SALE-0532,PRD-001,2024-04-01,Probiotik GB Proquatic,37,45000,1665000,Liter,Shopee,Sintetis
+SALE-0533,PRD-001,2024-05-01,Probiotik GB Proquatic,70,45000,3150000,Liter,Shopee,Sintetis
+SALE-0534,PRD-001,2024-06-01,Probiotik GB Proquatic,54,45000,2430000,Liter,Shopee,Sintetis
+SALE-0535,PRD-001,2024-07-01,Probiotik GB Proquatic,35,45000,1575000,Liter,Shopee,Sintetis
+SALE-0536,PRD-001,2024-08-01,Probiotik GB Proquatic,23,45000,1035000,Liter,Shopee,Sintetis
+SALE-0537,PRD-001,2024-09-01,Probiotik GB Proquatic,8,45000,360000,Liter,Shopee,Sintetis
+SALE-0538,PRD-001,2024-10-01,Probiotik GB Proquatic,25,45000,1125000,Liter,Shopee,Sintetis
+SALE-0539,PRD-001,2024-11-01,Probiotik GB Proquatic,38,45000,1710000,Liter,Shopee,Sintetis
+SALE-0540,PRD-001,2024-12-01,Probiotik GB Proquatic,15,45000,675000,Liter,Shopee,Sintetis
+SALE-0541,PRD-002,2024-01-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0542,PRD-002,2024-02-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0543,PRD-002,2024-03-01,Probiotik GB Propunic,3,45500,136500,Liter,Shopee,Sintetis
+SALE-0544,PRD-002,2024-04-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0545,PRD-002,2024-05-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0546,PRD-002,2024-06-01,Probiotik GB Propunic,8,45500,364000,Liter,Shopee,Sintetis
+SALE-0547,PRD-002,2024-07-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0548,PRD-002,2024-08-01,Probiotik GB Propunic,10,45500,455000,Liter,Shopee,Sintetis
+SALE-0549,PRD-002,2024-09-01,Probiotik GB Propunic,14,45500,637000,Liter,Shopee,Sintetis
+SALE-0550,PRD-002,2024-10-01,Probiotik GB Propunic,6,45500,273000,Liter,Shopee,Sintetis
+SALE-0551,PRD-002,2024-11-01,Probiotik GB Propunic,1,45500,45500,Liter,Shopee,Sintetis
+SALE-0552,PRD-002,2024-12-01,Probiotik GB Propunic,7,45500,318500,Liter,Shopee,Sintetis
+SALE-0553,PRD-003,2024-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,31,45000,1395000,Liter,Shopee,Sintetis
+SALE-0554,PRD-003,2024-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,5,45000,225000,Liter,Shopee,Sintetis
+SALE-0555,PRD-003,2024-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,20,45000,900000,Liter,Shopee,Sintetis
+SALE-0556,PRD-003,2024-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,12,45000,540000,Liter,Shopee,Sintetis
+SALE-0557,PRD-003,2024-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,50,45000,2250000,Liter,Shopee,Sintetis
+SALE-0558,PRD-003,2024-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,26,45000,1170000,Liter,Shopee,Sintetis
+SALE-0559,PRD-003,2024-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,17,45000,765000,Liter,Shopee,Sintetis
+SALE-0560,PRD-003,2024-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,8,45000,360000,Liter,Shopee,Sintetis
+SALE-0561,PRD-003,2024-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,10,45000,450000,Liter,Shopee,Sintetis
+SALE-0562,PRD-003,2024-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,9,45000,405000,Liter,Shopee,Sintetis
+SALE-0563,PRD-003,2024-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,6,45000,270000,Liter,Shopee,Sintetis
+SALE-0564,PRD-003,2024-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,46,45000,2070000,Liter,Shopee,Sintetis
+SALE-0565,PRD-004,2024-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0566,PRD-004,2024-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0567,PRD-004,2024-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0568,PRD-004,2024-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,15,36000,540000,Zak,Shopee,Sintetis
+SALE-0569,PRD-004,2024-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0570,PRD-004,2024-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,10,36000,360000,Zak,Shopee,Sintetis
+SALE-0571,PRD-004,2024-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0572,PRD-004,2024-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0573,PRD-004,2024-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0574,PRD-004,2024-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0575,PRD-004,2024-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0576,PRD-004,2024-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0577,PRD-005,2024-01-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0578,PRD-005,2024-02-01,Tricogem Fungisida Organik,8,30000,240000,Gram,Shopee,Sintetis
+SALE-0579,PRD-005,2024-03-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0580,PRD-005,2024-04-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0581,PRD-005,2024-05-01,Tricogem Fungisida Organik,5,30000,150000,Gram,Shopee,Sintetis
+SALE-0582,PRD-005,2024-06-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0583,PRD-005,2024-07-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0584,PRD-005,2024-08-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0585,PRD-005,2024-09-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0586,PRD-005,2024-10-01,Tricogem Fungisida Organik,5,30000,150000,Gram,Shopee,Sintetis
+SALE-0587,PRD-005,2024-11-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0588,PRD-005,2024-12-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0589,PRD-006,2024-01-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0590,PRD-006,2024-02-01,Pendawa Subur Pertumbuhan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0591,PRD-006,2024-03-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0592,PRD-006,2024-04-01,Pendawa Subur Pertumbuhan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0593,PRD-006,2024-05-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0594,PRD-006,2024-06-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0595,PRD-006,2024-07-01,Pendawa Subur Pertumbuhan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0596,PRD-006,2024-08-01,Pendawa Subur Pertumbuhan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0597,PRD-006,2024-09-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0598,PRD-006,2024-10-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0599,PRD-006,2024-11-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0600,PRD-006,2024-12-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0601,PRD-007,2024-01-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0602,PRD-007,2024-02-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0603,PRD-007,2024-03-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0604,PRD-007,2024-04-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0605,PRD-007,2024-05-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0606,PRD-007,2024-06-01,Beva Gem,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0607,PRD-007,2024-07-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0608,PRD-007,2024-08-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0609,PRD-007,2024-09-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0610,PRD-007,2024-10-01,Beva Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0611,PRD-007,2024-11-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0612,PRD-007,2024-12-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0613,PRD-008,2024-01-01,Metha Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0614,PRD-008,2024-02-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0615,PRD-008,2024-03-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0616,PRD-008,2024-04-01,Metha Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0617,PRD-008,2024-05-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0618,PRD-008,2024-06-01,Metha Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0619,PRD-008,2024-07-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0620,PRD-008,2024-08-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0621,PRD-008,2024-09-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0622,PRD-008,2024-10-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0623,PRD-008,2024-11-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0624,PRD-008,2024-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0625,PRD-009,2024-01-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0626,PRD-009,2024-02-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0627,PRD-009,2024-03-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0628,PRD-009,2024-04-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0629,PRD-009,2024-05-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0630,PRD-009,2024-06-01,Pestisida Organik Pendawa Ampuh,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0631,PRD-009,2024-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0632,PRD-009,2024-08-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0633,PRD-009,2024-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0634,PRD-009,2024-10-01,Pestisida Organik Pendawa Ampuh,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0635,PRD-009,2024-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0636,PRD-009,2024-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0637,PRD-010,2024-01-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0638,PRD-010,2024-02-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0639,PRD-010,2024-03-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0640,PRD-010,2024-04-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0641,PRD-010,2024-05-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0642,PRD-010,2024-06-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0643,PRD-010,2024-07-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0644,PRD-010,2024-08-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0645,PRD-010,2024-09-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0646,PRD-010,2024-10-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0647,PRD-010,2024-11-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0648,PRD-010,2024-12-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0649,PRD-011,2024-01-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0650,PRD-011,2024-02-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0651,PRD-011,2024-03-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0652,PRD-011,2024-04-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0653,PRD-011,2024-05-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0654,PRD-011,2024-06-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0655,PRD-011,2024-07-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0656,PRD-011,2024-08-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0657,PRD-011,2024-09-01,Pendawa Subur Tunas (ZpT) Organik,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0658,PRD-011,2024-10-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0659,PRD-011,2024-11-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0660,PRD-011,2024-12-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0661,PRD-001,2025-01-01,Probiotik GB Proquatic,11,45000,495000,Liter,Shopee,Sintetis
+SALE-0662,PRD-001,2025-02-01,Probiotik GB Proquatic,70,45000,3150000,Liter,Shopee,Sintetis
+SALE-0663,PRD-001,2025-03-01,Probiotik GB Proquatic,24,45000,1080000,Liter,Shopee,Sintetis
+SALE-0664,PRD-001,2025-04-01,Probiotik GB Proquatic,30,45000,1350000,Liter,Shopee,Sintetis
+SALE-0665,PRD-001,2025-05-01,Probiotik GB Proquatic,55,45000,2475000,Liter,Shopee,Sintetis
+SALE-0666,PRD-001,2025-06-01,Probiotik GB Proquatic,45,45000,2025000,Liter,Shopee,Sintetis
+SALE-0667,PRD-001,2025-07-01,Probiotik GB Proquatic,100,45000,4500000,Liter,Shopee,Sintetis
+SALE-0668,PRD-001,2025-08-01,Probiotik GB Proquatic,15,45000,675000,Liter,Shopee,Sintetis
+SALE-0669,PRD-001,2025-09-01,Probiotik GB Proquatic,29,45000,1305000,Liter,Shopee,Sintetis
+SALE-0670,PRD-001,2025-10-01,Probiotik GB Proquatic,50,45000,2250000,Liter,Shopee,Sintetis
+SALE-0671,PRD-001,2025-11-01,Probiotik GB Proquatic,50,45000,2250000,Liter,Shopee,Sintetis
+SALE-0672,PRD-001,2025-12-01,Probiotik GB Proquatic,54,45000,2430000,Liter,Shopee,Sintetis
+SALE-0673,PRD-002,2025-01-01,Probiotik GB Propunic,2,45500,91000,Liter,Shopee,Sintetis
+SALE-0674,PRD-002,2025-02-01,Probiotik GB Propunic,17,45500,773500,Liter,Shopee,Sintetis
+SALE-0675,PRD-002,2025-03-01,Probiotik GB Propunic,7,45500,318500,Liter,Shopee,Sintetis
+SALE-0676,PRD-002,2025-04-01,Probiotik GB Propunic,10,45500,455000,Liter,Shopee,Sintetis
+SALE-0677,PRD-002,2025-05-01,Probiotik GB Propunic,5,45500,227500,Liter,Shopee,Sintetis
+SALE-0678,PRD-002,2025-06-01,Probiotik GB Propunic,11,45500,500500,Liter,Shopee,Sintetis
+SALE-0679,PRD-002,2025-07-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0680,PRD-002,2025-08-01,Probiotik GB Propunic,10,45500,455000,Liter,Shopee,Sintetis
+SALE-0681,PRD-002,2025-09-01,Probiotik GB Propunic,7,45500,318500,Liter,Shopee,Sintetis
+SALE-0682,PRD-002,2025-10-01,Probiotik GB Propunic,13,45500,591500,Liter,Shopee,Sintetis
+SALE-0683,PRD-002,2025-11-01,Probiotik GB Propunic,4,45500,182000,Liter,Shopee,Sintetis
+SALE-0684,PRD-002,2025-12-01,Probiotik GB Propunic,30,45500,1365000,Liter,Shopee,Sintetis
+SALE-0685,PRD-003,2025-01-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,4,45000,180000,Liter,Shopee,Sintetis
+SALE-0686,PRD-003,2025-02-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,39,45000,1755000,Liter,Shopee,Sintetis
+SALE-0687,PRD-003,2025-03-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,7,45000,315000,Liter,Shopee,Sintetis
+SALE-0688,PRD-003,2025-04-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,70,45000,3150000,Liter,Shopee,Sintetis
+SALE-0689,PRD-003,2025-05-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,48,45000,2160000,Liter,Shopee,Sintetis
+SALE-0690,PRD-003,2025-06-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,22,45000,990000,Liter,Shopee,Sintetis
+SALE-0691,PRD-003,2025-07-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,11,45000,495000,Liter,Shopee,Sintetis
+SALE-0692,PRD-003,2025-08-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,24,45000,1080000,Liter,Shopee,Sintetis
+SALE-0693,PRD-003,2025-09-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,21,45000,945000,Liter,Shopee,Sintetis
+SALE-0694,PRD-003,2025-10-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,45,45000,2025000,Liter,Shopee,Sintetis
+SALE-0695,PRD-003,2025-11-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,18,45000,810000,Liter,Shopee,Sintetis
+SALE-0696,PRD-003,2025-12-01,Probiotik GB Profeed Untuk Ternak Sehat Gemuk,21,45000,945000,Liter,Shopee,Sintetis
+SALE-0697,PRD-004,2025-01-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,3,36000,108000,Zak,Shopee,Sintetis
+SALE-0698,PRD-004,2025-02-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0699,PRD-004,2025-03-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0700,PRD-004,2025-04-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0701,PRD-004,2025-05-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0702,PRD-004,2025-06-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0703,PRD-004,2025-07-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0704,PRD-004,2025-08-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,0,36000,0,Zak,Shopee,Sintetis
+SALE-0705,PRD-004,2025-09-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0706,PRD-004,2025-10-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0707,PRD-004,2025-11-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,2,36000,72000,Zak,Shopee,Sintetis
+SALE-0708,PRD-004,2025-12-01,Compossap Pupuk Organik Padat dari Kotoran Ternak,1,36000,36000,Zak,Shopee,Sintetis
+SALE-0709,PRD-005,2025-01-01,Tricogem Fungisida Organik,5,30000,150000,Gram,Shopee,Sintetis
+SALE-0710,PRD-005,2025-02-01,Tricogem Fungisida Organik,17,30000,510000,Gram,Shopee,Sintetis
+SALE-0711,PRD-005,2025-03-01,Tricogem Fungisida Organik,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0712,PRD-005,2025-04-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0713,PRD-005,2025-05-01,Tricogem Fungisida Organik,4,30000,120000,Gram,Shopee,Sintetis
+SALE-0714,PRD-005,2025-06-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0715,PRD-005,2025-07-01,Tricogem Fungisida Organik,6,30000,180000,Gram,Shopee,Sintetis
+SALE-0716,PRD-005,2025-08-01,Tricogem Fungisida Organik,0,30000,0,Gram,Shopee,Sintetis
+SALE-0717,PRD-005,2025-09-01,Tricogem Fungisida Organik,8,30000,240000,Gram,Shopee,Sintetis
+SALE-0718,PRD-005,2025-10-01,Tricogem Fungisida Organik,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0719,PRD-005,2025-11-01,Tricogem Fungisida Organik,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0720,PRD-005,2025-12-01,Tricogem Fungisida Organik,5,30000,150000,Gram,Shopee,Sintetis
+SALE-0721,PRD-006,2025-01-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0722,PRD-006,2025-02-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0723,PRD-006,2025-03-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0724,PRD-006,2025-04-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0725,PRD-006,2025-05-01,Pendawa Subur Pertumbuhan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0726,PRD-006,2025-06-01,Pendawa Subur Pertumbuhan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0727,PRD-006,2025-07-01,Pendawa Subur Pertumbuhan,8,49500,396000,Liter,Shopee,Sintetis
+SALE-0728,PRD-006,2025-08-01,Pendawa Subur Pertumbuhan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0729,PRD-006,2025-09-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0730,PRD-006,2025-10-01,Pendawa Subur Pertumbuhan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0731,PRD-006,2025-11-01,Pendawa Subur Pertumbuhan,10,49500,495000,Liter,Shopee,Sintetis
+SALE-0732,PRD-006,2025-12-01,Pendawa Subur Pertumbuhan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0733,PRD-007,2025-01-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0734,PRD-007,2025-02-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0735,PRD-007,2025-03-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0736,PRD-007,2025-04-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0737,PRD-007,2025-05-01,Beva Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0738,PRD-007,2025-06-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0739,PRD-007,2025-07-01,Beva Gem,5,30000,150000,Gram,Shopee,Sintetis
+SALE-0740,PRD-007,2025-08-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0741,PRD-007,2025-09-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0742,PRD-007,2025-10-01,Beva Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0743,PRD-007,2025-11-01,Beva Gem,3,30000,90000,Gram,Shopee,Sintetis
+SALE-0744,PRD-007,2025-12-01,Beva Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0745,PRD-008,2025-01-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0746,PRD-008,2025-02-01,Metha Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0747,PRD-008,2025-03-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0748,PRD-008,2025-04-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0749,PRD-008,2025-05-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0750,PRD-008,2025-06-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0751,PRD-008,2025-07-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0752,PRD-008,2025-08-01,Metha Gem,2,30000,60000,Gram,Shopee,Sintetis
+SALE-0753,PRD-008,2025-09-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0754,PRD-008,2025-10-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0755,PRD-008,2025-11-01,Metha Gem,1,30000,30000,Gram,Shopee,Sintetis
+SALE-0756,PRD-008,2025-12-01,Metha Gem,0,30000,0,Gram,Shopee,Sintetis
+SALE-0757,PRD-009,2025-01-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0758,PRD-009,2025-02-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0759,PRD-009,2025-03-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0760,PRD-009,2025-04-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0761,PRD-009,2025-05-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0762,PRD-009,2025-06-01,Pestisida Organik Pendawa Ampuh,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0763,PRD-009,2025-07-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0764,PRD-009,2025-08-01,Pestisida Organik Pendawa Ampuh,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0765,PRD-009,2025-09-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0766,PRD-009,2025-10-01,Pestisida Organik Pendawa Ampuh,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0767,PRD-009,2025-11-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0768,PRD-009,2025-12-01,Pestisida Organik Pendawa Ampuh,0,49500,0,Liter,Shopee,Sintetis
+SALE-0769,PRD-010,2025-01-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0770,PRD-010,2025-02-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0771,PRD-010,2025-03-01,Pendawa Subur Pembungaan,8,49500,396000,Liter,Shopee,Sintetis
+SALE-0772,PRD-010,2025-04-01,Pendawa Subur Pembungaan,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0773,PRD-010,2025-05-01,Pendawa Subur Pembungaan,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0774,PRD-010,2025-06-01,Pendawa Subur Pembungaan,10,49500,495000,Liter,Shopee,Sintetis
+SALE-0775,PRD-010,2025-07-01,Pendawa Subur Pembungaan,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0776,PRD-010,2025-08-01,Pendawa Subur Pembungaan,10,49500,495000,Liter,Shopee,Sintetis
+SALE-0777,PRD-010,2025-09-01,Pendawa Subur Pembungaan,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0778,PRD-010,2025-10-01,Pendawa Subur Pembungaan,4,49500,198000,Liter,Shopee,Sintetis
+SALE-0779,PRD-010,2025-11-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0780,PRD-010,2025-12-01,Pendawa Subur Pembungaan,0,49500,0,Liter,Shopee,Sintetis
+SALE-0781,PRD-011,2025-01-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0782,PRD-011,2025-02-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0783,PRD-011,2025-03-01,Pendawa Subur Tunas (ZpT) Organik,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0784,PRD-011,2025-04-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0785,PRD-011,2025-05-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0786,PRD-011,2025-06-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0787,PRD-011,2025-07-01,Pendawa Subur Tunas (ZpT) Organik,3,49500,148500,Liter,Shopee,Sintetis
+SALE-0788,PRD-011,2025-08-01,Pendawa Subur Tunas (ZpT) Organik,5,49500,247500,Liter,Shopee,Sintetis
+SALE-0789,PRD-011,2025-09-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis
+SALE-0790,PRD-011,2025-10-01,Pendawa Subur Tunas (ZpT) Organik,1,49500,49500,Liter,Shopee,Sintetis
+SALE-0791,PRD-011,2025-11-01,Pendawa Subur Tunas (ZpT) Organik,2,49500,99000,Liter,Shopee,Sintetis
+SALE-0792,PRD-011,2025-12-01,Pendawa Subur Tunas (ZpT) Organik,0,49500,0,Liter,Shopee,Sintetis

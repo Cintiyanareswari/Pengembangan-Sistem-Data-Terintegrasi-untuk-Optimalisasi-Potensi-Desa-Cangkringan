@@ -1,0 +1,74 @@
+﻿padukuhan_id,kalurahan_id,kalurahan,padukuhan,jumlah_rt,jumlah_rw,latitude,longitude
+PAD-001,KAL-001,Argomulyo,Randusari,5,2,-7.679963,110.449106
+PAD-002,KAL-001,Argomulyo,Kuwang,5,2,-7.6593,110.4563
+PAD-003,KAL-001,Argomulyo,Panggung,4,2,-7.66667,110.45556
+PAD-004,KAL-001,Argomulyo,Kliwang,4,2,-7.669722,110.456111
+PAD-005,KAL-001,Argomulyo,Teplok,4,2,-7.669666,110.454251
+PAD-006,KAL-001,Argomulyo,Kebur Lor,4,2,-7.675833,110.456111
+PAD-007,KAL-001,Argomulyo,Kebur Kidul,4,2,-7.6775,110.4575
+PAD-008,KAL-001,Argomulyo,Sewon,4,2,-7.685,110.464722
+PAD-009,KAL-001,Argomulyo,Brongkol,4,2,-7.6784,110.4665
+PAD-010,KAL-001,Argomulyo,Cangkringan,4,2,-7.68,110.4611
+PAD-011,KAL-001,Argomulyo,Jaranan,4,2,-7.67306,110.46472
+PAD-012,KAL-001,Argomulyo,Karanglo,4,2,-7.670278,110.463056
+PAD-013,KAL-001,Argomulyo,Jetis,4,2,-7.6677,110.4629
+PAD-014,KAL-001,Argomulyo,Suruh,5,2,-7.66478,110.46001
+PAD-015,KAL-001,Argomulyo,Bakalan,4,2,-7.65624,110.462
+PAD-016,KAL-001,Argomulyo,Gadingan,4,2,-7.65547,110.46503
+PAD-017,KAL-001,Argomulyo,Banaran,4,2,-7.6661,110.4666
+PAD-018,KAL-001,Argomulyo,Kauman,4,2,-7.666944,110.4725
+PAD-019,KAL-001,Argomulyo,Jiwan,4,2,-7.6638,110.47
+PAD-020,KAL-001,Argomulyo,Dliring,4,2,-7.6642,110.4715
+PAD-021,KAL-001,Argomulyo,Gayam,4,2,-7.6596,110.4694
+PAD-022,KAL-001,Argomulyo,Mudal,5,2,-7.65306,110.47028
+PAD-023,KAL-002,Wukirsari,Karangpakis,4,1,-7.66778,110.43361
+PAD-024,KAL-002,Wukirsari,Glagahwero,4,2,-7.66806,110.43667
+PAD-025,KAL-002,Wukirsari,Pusmalang,6,2,-7.6725,110.44028
+PAD-026,KAL-002,Wukirsari,Sruni,6,3,-7.66667,110.44222
+PAD-027,KAL-002,Wukirsari,Sintokan,4,2,-7.665,110.44
+PAD-028,KAL-002,Wukirsari,Rejosari,4,2,-7.65778,110.44583
+PAD-029,KAL-002,Wukirsari,Sempon,4,2,-7.65972,110.4475
+PAD-030,KAL-002,Wukirsari,Ngemplak,4,2,-7.65778,110.45028
+PAD-031,KAL-002,Wukirsari,Kiyaran,6,3,-7.65833,110.44028
+PAD-032,KAL-002,Wukirsari,Sembungan,4,2,-7.65861,110.43694
+PAD-033,KAL-002,Wukirsari,Tanjung,4,2,-7.6525,110.43528
+PAD-034,KAL-002,Wukirsari,Bedoyo,4,2,-7.64583,110.43333
+PAD-035,KAL-002,Wukirsari,Selorejo,4,2,-7.65379,110.43572
+PAD-036,KAL-002,Wukirsari,Plupuh,4,2,-7.64861,110.44361
+PAD-037,KAL-002,Wukirsari,Kregan,4,2,-7.64167,110.44806
+PAD-038,KAL-002,Wukirsari,Salam Krajan,4,2,-7.65194,110.45389
+PAD-039,KAL-002,Wukirsari,Cakran,4,2,-7.65083,110.45611
+PAD-040,KAL-002,Wukirsari,Duwet,4,2,-7.64833,110.45667
+PAD-041,KAL-002,Wukirsari,Gungan,4,2,-7.64417,110.45722
+PAD-042,KAL-002,Wukirsari,Ngepringan,4,2,-7.645,110.46194
+PAD-043,KAL-002,Wukirsari,Gondang,3,1,-7.64722,110.46333
+PAD-044,KAL-002,Wukirsari,Bulaksalak,4,2,-7.64917,110.4475
+PAD-045,KAL-002,Wukirsari,Surodadi,4,2,-7.66056,110.45278
+PAD-046,KAL-002,Wukirsari,Cangcangan,4,2,-7.6375,110.43278
+PAD-047,KAL-003,Glagaharjo,Kalitengah Lor,4,2,-7.58517,110.45667
+PAD-048,KAL-003,Glagaharjo,Kalitengah Kidul,4,2,-7.59194,110.45778
+PAD-049,KAL-003,Glagaharjo,Srunen,4,2,-7.591956,110.455256
+PAD-050,KAL-003,Glagaharjo,Singlar,4,2,-7.6128541,110.4604695
+PAD-051,KAL-003,Glagaharjo,Gading,4,2,-7.6172,110.4644
+PAD-052,KAL-003,Glagaharjo,Glagah Malang,4,2,-7.6491,110.4578
+PAD-053,KAL-003,Glagaharjo,Jetis Sumur,4,2,-7.6267,110.4672
+PAD-054,KAL-003,Glagaharjo,Ngancar,5,2,-7.639722,110.466389
+PAD-055,KAL-003,Glagaharjo,Banjarsari,4,2,-7.6461,110.4692
+PAD-056,KAL-003,Glagaharjo,Besalen,4,2,-7.650278,110.466389
+PAD-057,KAL-004,Kepuharjo,Kaliadem,4,2,-7.6288,110.44661
+PAD-058,KAL-004,Kepuharjo,Jambu,4,2,-7.6148,110.4552
+PAD-059,KAL-004,Kepuharjo,Petung,4,2,-7.6022,110.4479
+PAD-060,KAL-004,Kepuharjo,Kopeng,5,2,-7.611389,110.453611
+PAD-061,KAL-004,Kepuharjo,Batur,4,2,-7.619502,110.454741
+PAD-062,KAL-004,Kepuharjo,Pagerjurang,4,2,-7.629444,110.4475
+PAD-063,KAL-004,Kepuharjo,Kepuh,4,2,-7.622778,110.453056
+PAD-064,KAL-004,Kepuharjo,Manggong,4,2,-7.62749,110.44744
+PAD-065,KAL-005,Umbulharjo,Pelemsari,4,2,-7.585,110.442222
+PAD-066,KAL-005,Umbulharjo,Pangukrejo,6,3,-7.5734,110.4461
+PAD-067,KAL-005,Umbulharjo,Gondang,4,2,-7.623071,110.443244
+PAD-068,KAL-005,Umbulharjo,Gambretan,6,3,-7.6255,110.433
+PAD-069,KAL-005,Umbulharjo,Balong,4,2,-7.6217,110.4333
+PAD-070,KAL-005,Umbulharjo,Plosorejo,4,2,-7.625,110.4356
+PAD-071,KAL-005,Umbulharjo,Karanggeneng,4,2,-7.63028,110.43306
+PAD-072,KAL-005,Umbulharjo,Plosokerep,4,2,-7.631667,110.444722
+PAD-073,KAL-005,Umbulharjo,Pentingsari,4,2,-7.625,110.426

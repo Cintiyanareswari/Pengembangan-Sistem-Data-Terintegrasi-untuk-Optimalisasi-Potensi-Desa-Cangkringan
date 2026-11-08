@@ -1,0 +1,512 @@
+﻿agri_id,kalurahan,padukuhan_id,padukuhan,komoditas,kelompok_komoditas,tahun,luas_panen_ha,luas_lahan_ha,jumlah_petani,jumlah_utp,jumlah_kelompok_tani,produksi,satuan_produksi_q
+AGRI-0001,Wukirsari,PAD-046,Cangcangan,Bawang Merah,Hortikultura,2024,0.0066,0.0085,2,2,1,0.44,kuintal
+AGRI-0002,Glagaharjo,PAD-056,Besalen,Bawang Merah,Hortikultura,2024,0.0083,0.0104,2,1,1,0.68,kuintal
+AGRI-0003,Wukirsari,PAD-044,Bulaksalak,Cabai Keriting,Hortikultura,2024,3.2304,4.0321,37,30,3,270.81,kuintal
+AGRI-0004,Argomulyo,PAD-019,Jiwan,Bawang Merah,Hortikultura,2024,0.0104,0.0112,2,1,1,1.26,kuintal
+AGRI-0005,Glagaharjo,PAD-056,Besalen,Kencur,Tanaman Obat,2023,0.0859,0.0951,4,4,1,0.3485,kuintal
+AGRI-0006,Glagaharjo,PAD-052,Glagah Malang,Bawang Merah,Hortikultura,2024,0.0049,0.0056,2,1,1,0.61,kuintal
+AGRI-0007,Wukirsari,PAD-045,Surodadi,Cabai Keriting,Hortikultura,2024,0.7281,0.9315,4,3,1,63.89,kuintal
+AGRI-0008,Wukirsari,PAD-043,Gondang,Kunyit,Tanaman Obat,2023,0.1384,0.1788,2,1,1,0.6753,kuintal
+AGRI-0009,Argomulyo,PAD-010,Cangkringan,Kunyit,Tanaman Obat,2023,0.132,0.147,2,2,1,1.0075,kuintal
+AGRI-0010,Glagaharjo,PAD-049,Srunen,Bawang Merah,Hortikultura,2024,0.0094,0.0105,2,1,1,0.6,kuintal
+AGRI-0011,Argomulyo,PAD-004,Kliwang,Cabai Rawit,Hortikultura,2024,1.4245,1.7938,14,9,2,106.04,kuintal
+AGRI-0012,Kepuharjo,PAD-063,Kepuh,Kencur,Tanaman Obat,2023,0.2004,0.2537,2,1,1,1.3043,kuintal
+AGRI-0013,Argomulyo,PAD-018,Kauman,Kunyit,Tanaman Obat,2023,0.0898,0.109,4,3,1,0.4221,kuintal
+AGRI-0014,Wukirsari,PAD-041,Gungan,Jahe,Tanaman Obat,2023,0.1955,0.2367,5,2,1,1.4033,kuintal
+AGRI-0015,Umbulharjo,PAD-065,Pelemsari,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3843,0.4924,4,3,1,25.89,kuintal
+AGRI-0016,Umbulharjo,PAD-070,Plosorejo,Jahe,Tanaman Obat,2023,0.3959,0.4476,4,3,1,4.338,kuintal
+AGRI-0017,Wukirsari,PAD-033,Tanjung,Cabai Rawit,Hortikultura,2024,2.0105,2.6983,17,13,2,167.63,kuintal
+AGRI-0018,Wukirsari,PAD-027,Sintokan,Kencur,Tanaman Obat,2023,0.0585,0.0741,2,1,1,0.2598,kuintal
+AGRI-0019,Argomulyo,PAD-008,Sewon,Kunyit,Tanaman Obat,2023,0.0672,0.084,2,1,1,0.3874,kuintal
+AGRI-0020,Umbulharjo,PAD-068,Gambretan,Bawang Merah,Hortikultura,2024,0.0088,0.0112,2,1,1,1.04,kuintal
+AGRI-0021,Umbulharjo,PAD-070,Plosorejo,Cabai Keriting,Hortikultura,2024,0.6937,0.8969,6,4,1,45.43,kuintal
+AGRI-0022,Glagaharjo,PAD-054,Ngancar,Bawang Merah,Hortikultura,2024,0.0087,0.0105,3,2,1,0.84,kuintal
+AGRI-0023,Glagaharjo,PAD-054,Ngancar,Kencur,Tanaman Obat,2023,0.0597,0.0721,4,3,1,0.2829,kuintal
+AGRI-0024,Kepuharjo,PAD-064,Manggong,Bawang Merah,Hortikultura,2024,0.0102,0.0114,2,2,1,0.6,kuintal
+AGRI-0025,Wukirsari,PAD-035,Selorejo,Kunyit,Tanaman Obat,2023,0.1308,0.1519,2,1,1,0.8377,kuintal
+AGRI-0026,Argomulyo,PAD-019,Jiwan,Cabai Rawit,Hortikultura,2024,0.8179,1.0183,10,9,1,71.41,kuintal
+AGRI-0027,Kepuharjo,PAD-064,Manggong,Kencur,Tanaman Obat,2023,0.0424,0.0559,2,1,1,0.2385,kuintal
+AGRI-0028,Umbulharjo,PAD-066,Pangukrejo,Kunyit,Tanaman Obat,2023,0.2051,0.2413,3,1,1,0.6466,kuintal
+AGRI-0029,Wukirsari,PAD-023,Karangpakis,Kunyit,Tanaman Obat,2023,0.2083,0.2413,2,1,1,0.9874,kuintal
+AGRI-0030,Umbulharjo,PAD-071,Karanggeneng,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4742,0.5489,7,3,1,40.14,kuintal
+AGRI-0031,Argomulyo,PAD-007,Kebur Kidul,Cabai Rawit,Hortikultura,2024,0.2459,0.3249,2,2,1,17.82,kuintal
+AGRI-0032,Glagaharjo,PAD-053,Jetis Sumur,Kencur,Tanaman Obat,2023,0.0345,0.0425,2,2,1,0.1818,kuintal
+AGRI-0033,Argomulyo,PAD-010,Cangkringan,Jahe,Tanaman Obat,2023,0.2661,0.3483,2,1,1,2.8931,kuintal
+AGRI-0034,Wukirsari,PAD-038,Salam Krajan,Jahe,Tanaman Obat,2023,0.1357,0.1708,3,3,1,1.3135,kuintal
+AGRI-0035,Wukirsari,PAD-044,Bulaksalak,Kunyit,Tanaman Obat,2023,0.0621,0.0695,3,2,1,0.2545,kuintal
+AGRI-0036,Kepuharjo,PAD-063,Kepuh,Cabai Rawit,Hortikultura,2024,0.3567,0.4492,3,2,1,33.71,kuintal
+AGRI-0037,Glagaharjo,PAD-055,Banjarsari,Kencur,Tanaman Obat,2023,0.0857,0.1119,2,1,1,0.4681,kuintal
+AGRI-0038,Argomulyo,PAD-006,Kebur Lor,Bawang Merah,Hortikultura,2024,0.0061,0.0068,2,2,1,0.6,kuintal
+AGRI-0039,Umbulharjo,PAD-072,Plosokerep,Jahe,Tanaman Obat,2023,0.1264,0.1655,2,1,1,1.0806,kuintal
+AGRI-0040,Argomulyo,PAD-012,Karanglo,Cabai Rawit,Hortikultura,2024,0.6859,0.7804,4,2,1,56.74,kuintal
+AGRI-0041,Wukirsari,PAD-038,Salam Krajan,Cabai Rawit,Hortikultura,2024,0.9144,1.1931,6,5,1,70.89,kuintal
+AGRI-0042,Argomulyo,PAD-015,Bakalan,Cabai Rawit,Hortikultura,2024,1.1914,1.4466,14,7,2,106.6,kuintal
+AGRI-0043,Argomulyo,PAD-017,Banaran,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8724,0.9881,8,7,1,95.65,kuintal
+AGRI-0044,Wukirsari,PAD-038,Salam Krajan,Cabai Keriting,Hortikultura,2024,0.8831,1.0709,9,8,1,61.31,kuintal
+AGRI-0045,Wukirsari,PAD-027,Sintokan,Jahe,Tanaman Obat,2023,0.2146,0.2331,5,4,1,2.3502,kuintal
+AGRI-0046,Argomulyo,PAD-003,Panggung,Kunyit,Tanaman Obat,2023,0.2235,0.2856,2,1,1,0.8705,kuintal
+AGRI-0047,Wukirsari,PAD-028,Rejosari,Bawang Merah,Hortikultura,2024,0.0197,0.0247,2,1,1,0.5,kuintal
+AGRI-0048,Wukirsari,PAD-042,Ngepringan,Jahe,Tanaman Obat,2023,0.316,0.3956,2,1,1,3.5327,kuintal
+AGRI-0049,Wukirsari,PAD-029,Sempon,Cabai Keriting,Hortikultura,2024,1.8299,2.1452,21,16,2,126.54,kuintal
+AGRI-0050,Glagaharjo,PAD-049,Srunen,Jahe,Tanaman Obat,2023,0.366,0.4587,6,4,1,5.1566,kuintal
+AGRI-0051,Wukirsari,PAD-033,Tanjung,Cabai Keriting,Hortikultura,2024,1.5677,1.9875,14,12,2,110.8,kuintal
+AGRI-0052,Kepuharjo,PAD-063,Kepuh,Cabai Keriting,Hortikultura,2024,0.7343,0.8637,7,5,1,57.87,kuintal
+AGRI-0053,Umbulharjo,PAD-065,Pelemsari,Jahe,Tanaman Obat,2023,0.0901,0.1048,2,1,1,0.8836,kuintal
+AGRI-0054,Argomulyo,PAD-008,Sewon,Cabai Keriting,Hortikultura,2024,1.3299,1.67,14,12,2,113.69,kuintal
+AGRI-0055,Wukirsari,PAD-027,Sintokan,Kunyit,Tanaman Obat,2023,0.0908,0.1175,2,2,1,0.51,kuintal
+AGRI-0056,Wukirsari,PAD-039,Cakran,Cabai Keriting,Hortikultura,2024,0.3669,0.436,6,4,1,31.52,kuintal
+AGRI-0057,Glagaharjo,PAD-048,Kalitengah Kidul,Cabai Rawit,Hortikultura,2024,0.51,0.5724,6,5,1,37.72,kuintal
+AGRI-0058,Wukirsari,PAD-032,Sembungan,Cabai Rawit,Hortikultura,2024,0.6259,0.6883,9,8,1,47.06,kuintal
+AGRI-0059,Wukirsari,PAD-023,Karangpakis,Kencur,Tanaman Obat,2023,0.0375,0.0453,2,1,1,0.2103,kuintal
+AGRI-0060,Glagaharjo,PAD-050,Singlar,Cabai Rawit,Hortikultura,2024,0.653,0.7346,5,3,1,73.67,kuintal
+AGRI-0061,Glagaharjo,PAD-055,Banjarsari,Kunyit,Tanaman Obat,2023,0.1387,0.1765,2,1,1,0.8902,kuintal
+AGRI-0062,Umbulharjo,PAD-073,Pentingsari,Bawang Merah,Hortikultura,2024,0.0043,0.0049,2,1,1,0.43,kuintal
+AGRI-0063,Kepuharjo,PAD-058,Jambu,Bawang Merah,Hortikultura,2024,0.0047,0.0056,2,1,1,0.31,kuintal
+AGRI-0064,Kepuharjo,PAD-060,Kopeng,Jahe,Tanaman Obat,2023,0.1217,0.1407,2,1,1,1.4841,kuintal
+AGRI-0065,Glagaharjo,PAD-050,Singlar,Kunyit,Tanaman Obat,2023,0.1891,0.2133,2,1,1,0.979,kuintal
+AGRI-0066,Argomulyo,PAD-019,Jiwan,Jahe,Tanaman Obat,2023,0.5481,0.7096,4,3,1,4.8669,kuintal
+AGRI-0067,Argomulyo,PAD-014,Suruh,Kunyit,Tanaman Obat,2023,0.039,0.0475,3,2,1,0.1976,kuintal
+AGRI-0068,Wukirsari,PAD-040,Duwet,Kunyit,Tanaman Obat,2023,0.0208,0.0248,2,1,1,0.1132,kuintal
+AGRI-0069,Kepuharjo,PAD-060,Kopeng,Kunyit,Tanaman Obat,2023,0.1045,0.1238,2,1,1,0.4061,kuintal
+AGRI-0070,Umbulharjo,PAD-072,Plosokerep,Cabai Rawit,Hortikultura,2024,0.7858,0.9567,7,4,1,90.35,kuintal
+AGRI-0071,Argomulyo,PAD-018,Kauman,Kencur,Tanaman Obat,2023,0.0595,0.0723,2,2,1,0.2393,kuintal
+AGRI-0072,Kepuharjo,PAD-062,Pagerjurang,Cabai Rawit,Hortikultura,2024,0.2155,0.2527,2,1,1,15.86,kuintal
+AGRI-0073,Wukirsari,PAD-026,Sruni,Cabai Rawit,Hortikultura,2024,0.9179,1.1284,9,7,1,75.56,kuintal
+AGRI-0074,Wukirsari,PAD-027,Sintokan,Cabai Rawit,Hortikultura,2024,0.3588,0.4498,2,2,1,33.38,kuintal
+AGRI-0075,Wukirsari,PAD-037,Kregan,Cabai Rawit,Hortikultura,2024,1.2578,1.6554,16,10,1,100.37,kuintal
+AGRI-0076,Argomulyo,PAD-018,Kauman,Jahe,Tanaman Obat,2023,0.5291,0.7103,6,3,1,5.0846,kuintal
+AGRI-0077,Argomulyo,PAD-021,Gayam,Cabai Keriting,Hortikultura,2024,0.6825,0.7974,8,5,1,47.65,kuintal
+AGRI-0078,Umbulharjo,PAD-070,Plosorejo,Cabai Rawit,Hortikultura,2024,0.4036,0.5191,6,3,1,34.19,kuintal
+AGRI-0079,Wukirsari,PAD-026,Sruni,Jahe,Tanaman Obat,2023,0.2695,0.3191,2,1,1,2.4869,kuintal
+AGRI-0080,Wukirsari,PAD-032,Sembungan,Bawang Merah,Hortikultura,2024,0.0069,0.008,2,1,1,0.42,kuintal
+AGRI-0081,Wukirsari,PAD-042,Ngepringan,Bawang Merah,Hortikultura,2024,0.0051,0.0066,2,1,1,0.27,kuintal
+AGRI-0082,Argomulyo,PAD-021,Gayam,Jahe,Tanaman Obat,2023,0.2357,0.2748,4,2,1,1.8122,kuintal
+AGRI-0083,Umbulharjo,PAD-067,Gondang,Jahe,Tanaman Obat,2023,0.0776,0.0839,2,1,1,0.9345,kuintal
+AGRI-0084,Wukirsari,PAD-046,Cangcangan,Cabai Keriting,Hortikultura,2024,0.6077,0.7144,4,2,1,73.17,kuintal
+AGRI-0085,Umbulharjo,PAD-073,Pentingsari,Jahe,Tanaman Obat,2023,0.1154,0.1313,3,2,1,1.3939,kuintal
+AGRI-0086,Wukirsari,PAD-027,Sintokan,Bawang Merah,Hortikultura,2024,0.0069,0.009,2,2,1,0.56,kuintal
+AGRI-0087,Argomulyo,PAD-017,Banaran,Jahe,Tanaman Obat,2023,0.1553,0.1698,4,3,1,1.6806,kuintal
+AGRI-0088,Umbulharjo,PAD-068,Gambretan,Kencur,Tanaman Obat,2023,0.0845,0.093,2,1,1,0.4457,kuintal
+AGRI-0089,Argomulyo,PAD-005,Teplok,Cabai Keriting,Hortikultura,2024,0.6111,0.7292,6,4,1,48.33,kuintal
+AGRI-0090,Umbulharjo,PAD-067,Gondang,Cabai Keriting,Hortikultura,2024,3.2862,3.8318,31,21,3,370.03,kuintal
+AGRI-0091,Glagaharjo,PAD-056,Besalen,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3936,0.4384,8,5,1,27.92,kuintal
+AGRI-0092,Wukirsari,PAD-039,Cakran,Bawang Merah,Hortikultura,2024,0.0146,0.019,2,1,1,1.22,kuintal
+AGRI-0093,Argomulyo,PAD-005,Teplok,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4181,0.4748,5,3,1,41.42,kuintal
+AGRI-0094,Wukirsari,PAD-028,Rejosari,Jahe,Tanaman Obat,2023,0.0493,0.0582,2,2,1,0.5547,kuintal
+AGRI-0095,Umbulharjo,PAD-073,Pentingsari,Cabai Keriting,Hortikultura,2024,0.464,0.6028,3,2,1,41.75,kuintal
+AGRI-0096,Glagaharjo,PAD-055,Banjarsari,Cabai Keriting,Hortikultura,2024,0.8851,0.9618,6,5,1,88.93,kuintal
+AGRI-0097,Wukirsari,PAD-024,Glagahwero,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8212,0.9657,9,6,1,44.05,kuintal
+AGRI-0098,Kepuharjo,PAD-057,Kaliadem,Kunyit,Tanaman Obat,2023,0.1375,0.1845,2,2,1,0.8047,kuintal
+AGRI-0099,Umbulharjo,PAD-072,Plosokerep,Kencur,Tanaman Obat,2023,0.0578,0.0636,3,2,1,0.1706,kuintal
+AGRI-0100,Glagaharjo,PAD-049,Srunen,Cabai Rawit,Hortikultura,2024,0.1574,0.182,4,3,1,9.29,kuintal
+AGRI-0101,Wukirsari,PAD-031,Kiyaran,Jahe,Tanaman Obat,2023,0.2259,0.2677,2,1,1,2.8569,kuintal
+AGRI-0102,Wukirsari,PAD-025,Pusmalang,Cabai Rawit,Hortikultura,2024,1.0556,1.2872,8,6,1,109.34,kuintal
+AGRI-0103,Argomulyo,PAD-008,Sewon,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6655,0.8965,3,2,1,66.83,kuintal
+AGRI-0104,Argomulyo,PAD-020,Dliring,Cabai Rawit,Hortikultura,2024,0.5741,0.6348,7,4,1,78.12,kuintal
+AGRI-0105,Argomulyo,PAD-002,Kuwang,Kunyit,Tanaman Obat,2023,0.3248,0.3856,3,2,1,1.5025,kuintal
+AGRI-0106,Argomulyo,PAD-002,Kuwang,Bawang Merah,Hortikultura,2024,0.0106,0.0121,2,2,1,0.8,kuintal
+AGRI-0107,Wukirsari,PAD-040,Duwet,Jahe,Tanaman Obat,2023,0.1461,0.1659,2,1,1,1.6112,kuintal
+AGRI-0108,Kepuharjo,PAD-062,Pagerjurang,Jahe,Tanaman Obat,2023,0.3506,0.4531,2,1,1,3.9749,kuintal
+AGRI-0109,Wukirsari,PAD-025,Pusmalang,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8601,0.942,6,5,1,51.66,kuintal
+AGRI-0110,Wukirsari,PAD-037,Kregan,Cabai Keriting,Hortikultura,2024,1.293,1.703,14,7,2,161.98,kuintal
+AGRI-0111,Argomulyo,PAD-005,Teplok,Jahe,Tanaman Obat,2023,0.0828,0.1043,2,1,1,0.9636,kuintal
+AGRI-0112,Wukirsari,PAD-029,Sempon,Cabai Besar/TW/Teropong,Hortikultura,2024,0.1463,0.1682,2,1,1,12.51,kuintal
+AGRI-0113,Wukirsari,PAD-044,Bulaksalak,Cabai Besar/TW/Teropong,Hortikultura,2024,1.01,1.1117,9,7,1,105.16,kuintal
+AGRI-0114,Umbulharjo,PAD-066,Pangukrejo,Cabai Rawit,Hortikultura,2024,1.6601,1.9602,13,8,2,158.35,kuintal
+AGRI-0115,Argomulyo,PAD-015,Bakalan,Kencur,Tanaman Obat,2023,0.0407,0.0448,2,1,1,0.2027,kuintal
+AGRI-0116,Argomulyo,PAD-011,Jaranan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6988,0.8194,4,3,1,40.74,kuintal
+AGRI-0117,Argomulyo,PAD-006,Kebur Lor,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3986,0.4724,6,4,1,23.12,kuintal
+AGRI-0118,Umbulharjo,PAD-072,Plosokerep,Cabai Besar/TW/Teropong,Hortikultura,2024,0.2364,0.2969,2,1,1,14.64,kuintal
+AGRI-0119,Wukirsari,PAD-032,Sembungan,Kencur,Tanaman Obat,2023,0.1116,0.143,6,5,1,0.4782,kuintal
+AGRI-0120,Argomulyo,PAD-016,Gadingan,Cabai Keriting,Hortikultura,2024,0.5688,0.6328,6,4,1,43.0,kuintal
+AGRI-0121,Argomulyo,PAD-009,Brongkol,Cabai Besar/TW/Teropong,Hortikultura,2024,0.2651,0.3462,4,3,1,22.19,kuintal
+AGRI-0122,Argomulyo,PAD-017,Banaran,Bawang Merah,Hortikultura,2024,0.0087,0.0097,2,1,1,0.65,kuintal
+AGRI-0123,Argomulyo,PAD-003,Panggung,Jahe,Tanaman Obat,2023,0.1395,0.1565,3,1,1,1.4351,kuintal
+AGRI-0124,Glagaharjo,PAD-048,Kalitengah Kidul,Cabai Keriting,Hortikultura,2024,0.3423,0.432,6,5,1,23.47,kuintal
+AGRI-0125,Kepuharjo,PAD-064,Manggong,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3491,0.4114,2,1,1,31.01,kuintal
+AGRI-0126,Kepuharjo,PAD-057,Kaliadem,Cabai Keriting,Hortikultura,2024,0.6454,0.7635,7,5,1,56.44,kuintal
+AGRI-0127,Wukirsari,PAD-044,Bulaksalak,Jahe,Tanaman Obat,2023,0.1556,0.1819,2,1,1,1.6718,kuintal
+AGRI-0128,Wukirsari,PAD-043,Gondang,Jahe,Tanaman Obat,2023,0.2055,0.2451,2,1,1,1.5351,kuintal
+AGRI-0129,Argomulyo,PAD-011,Jaranan,Cabai Rawit,Hortikultura,2024,0.5551,0.6081,5,3,1,52.19,kuintal
+AGRI-0130,Glagaharjo,PAD-047,Kalitengah Lor,Cabai Keriting,Hortikultura,2024,0.6208,0.7772,6,5,1,58.59,kuintal
+AGRI-0131,Kepuharjo,PAD-057,Kaliadem,Cabai Rawit,Hortikultura,2024,0.4519,0.4946,3,2,1,26.72,kuintal
+AGRI-0132,Wukirsari,PAD-045,Surodadi,Bawang Merah,Hortikultura,2024,0.0125,0.0153,2,1,1,1.1,kuintal
+AGRI-0133,Umbulharjo,PAD-065,Pelemsari,Kunyit,Tanaman Obat,2023,0.2252,0.2962,2,1,1,1.1198,kuintal
+AGRI-0134,Argomulyo,PAD-006,Kebur Lor,Kencur,Tanaman Obat,2023,0.1253,0.1369,2,1,1,0.7769,kuintal
+AGRI-0135,Wukirsari,PAD-025,Pusmalang,Kencur,Tanaman Obat,2023,0.0731,0.0981,4,3,1,0.2939,kuintal
+AGRI-0136,Kepuharjo,PAD-058,Jambu,Kencur,Tanaman Obat,2023,0.1056,0.1279,3,1,1,0.5922,kuintal
+AGRI-0137,Wukirsari,PAD-041,Gungan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3104,0.4172,2,1,1,23.54,kuintal
+AGRI-0138,Umbulharjo,PAD-071,Karanggeneng,Cabai Keriting,Hortikultura,2024,1.3473,1.5519,11,9,1,108.87,kuintal
+AGRI-0139,Umbulharjo,PAD-070,Plosorejo,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3219,0.4197,5,4,1,39.52,kuintal
+AGRI-0140,Argomulyo,PAD-020,Dliring,Cabai Keriting,Hortikultura,2024,0.3809,0.4501,9,5,1,33.47,kuintal
+AGRI-0141,Argomulyo,PAD-007,Kebur Kidul,Jahe,Tanaman Obat,2023,0.1174,0.1409,2,2,1,1.7376,kuintal
+AGRI-0142,Wukirsari,PAD-042,Ngepringan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6656,0.7325,6,4,1,53.61,kuintal
+AGRI-0143,Wukirsari,PAD-030,Ngemplak,Cabai Keriting,Hortikultura,2024,0.9237,1.0681,8,5,1,66.95,kuintal
+AGRI-0144,Glagaharjo,PAD-054,Ngancar,Kunyit,Tanaman Obat,2023,0.1786,0.2343,2,1,1,1.1372,kuintal
+AGRI-0145,Wukirsari,PAD-034,Bedoyo,Bawang Merah,Hortikultura,2024,0.0054,0.0059,2,1,1,0.44,kuintal
+AGRI-0146,Wukirsari,PAD-030,Ngemplak,Cabai Rawit,Hortikultura,2024,0.3872,0.4187,4,2,1,22.84,kuintal
+AGRI-0147,Umbulharjo,PAD-065,Pelemsari,Cabai Rawit,Hortikultura,2024,0.3031,0.3767,3,2,1,28.81,kuintal
+AGRI-0148,Kepuharjo,PAD-060,Kopeng,Bawang Merah,Hortikultura,2024,0.0178,0.0215,2,1,1,1.36,kuintal
+AGRI-0149,Wukirsari,PAD-045,Surodadi,Cabai Rawit,Hortikultura,2024,2.6037,3.1431,28,17,2,239.37,kuintal
+AGRI-0150,Argomulyo,PAD-016,Gadingan,Jahe,Tanaman Obat,2023,0.2745,0.315,2,1,1,2.4814,kuintal
+AGRI-0151,Wukirsari,PAD-032,Sembungan,Kunyit,Tanaman Obat,2023,0.1685,0.2164,2,1,1,1.1756,kuintal
+AGRI-0152,Argomulyo,PAD-009,Brongkol,Kencur,Tanaman Obat,2023,0.0278,0.031,2,1,1,0.2363,kuintal
+AGRI-0153,Glagaharjo,PAD-052,Glagah Malang,Cabai Keriting,Hortikultura,2024,0.5562,0.737,5,3,1,59.27,kuintal
+AGRI-0154,Argomulyo,PAD-010,Cangkringan,Cabai Besar/TW/Teropong,Hortikultura,2024,1.1549,1.2515,12,7,1,65.36,kuintal
+AGRI-0155,Umbulharjo,PAD-065,Pelemsari,Kencur,Tanaman Obat,2023,0.068,0.0902,2,1,1,0.4469,kuintal
+AGRI-0156,Argomulyo,PAD-015,Bakalan,Kunyit,Tanaman Obat,2023,0.0578,0.0753,2,1,1,0.3287,kuintal
+AGRI-0157,Glagaharjo,PAD-052,Glagah Malang,Jahe,Tanaman Obat,2023,0.0624,0.0784,5,3,1,0.8432,kuintal
+AGRI-0158,Kepuharjo,PAD-059,Petung,Kencur,Tanaman Obat,2023,0.0562,0.0727,3,1,1,0.2616,kuintal
+AGRI-0159,Glagaharjo,PAD-048,Kalitengah Kidul,Cabai Besar/TW/Teropong,Hortikultura,2024,0.2308,0.2709,3,2,1,13.71,kuintal
+AGRI-0160,Argomulyo,PAD-002,Kuwang,Cabai Rawit,Hortikultura,2024,0.2657,0.3547,3,1,1,20.04,kuintal
+AGRI-0161,Argomulyo,PAD-001,Randusari,Bawang Merah,Hortikultura,2024,0.0141,0.0166,2,1,1,1.3,kuintal
+AGRI-0162,Wukirsari,PAD-023,Karangpakis,Jahe,Tanaman Obat,2023,0.1059,0.1182,2,1,1,1.0891,kuintal
+AGRI-0163,Glagaharjo,PAD-056,Besalen,Cabai Rawit,Hortikultura,2024,0.9589,1.0402,7,6,1,95.08,kuintal
+AGRI-0164,Umbulharjo,PAD-070,Plosorejo,Kunyit,Tanaman Obat,2023,0.0273,0.0348,2,2,1,0.2171,kuintal
+AGRI-0165,Argomulyo,PAD-001,Randusari,Cabai Besar/TW/Teropong,Hortikultura,2024,0.5203,0.5952,2,1,1,45.31,kuintal
+AGRI-0166,Kepuharjo,PAD-063,Kepuh,Bawang Merah,Hortikultura,2024,0.002,0.0026,3,2,1,0.17,kuintal
+AGRI-0167,Kepuharjo,PAD-064,Manggong,Kunyit,Tanaman Obat,2023,0.0536,0.0672,2,1,1,0.2663,kuintal
+AGRI-0168,Argomulyo,PAD-004,Kliwang,Cabai Besar/TW/Teropong,Hortikultura,2024,1.0802,1.1787,10,7,1,75.34,kuintal
+AGRI-0169,Wukirsari,PAD-045,Surodadi,Kunyit,Tanaman Obat,2023,0.0542,0.0713,3,2,1,0.3518,kuintal
+AGRI-0170,Wukirsari,PAD-038,Salam Krajan,Kencur,Tanaman Obat,2023,0.0229,0.0261,2,1,1,0.1305,kuintal
+AGRI-0171,Wukirsari,PAD-036,Plupuh,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4697,0.5949,4,3,1,25.6,kuintal
+AGRI-0172,Wukirsari,PAD-046,Cangcangan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8555,0.9745,9,6,1,42.03,kuintal
+AGRI-0173,Argomulyo,PAD-011,Jaranan,Bawang Merah,Hortikultura,2024,0.0163,0.0213,2,1,1,1.15,kuintal
+AGRI-0174,Glagaharjo,PAD-055,Banjarsari,Bawang Merah,Hortikultura,2024,0.0039,0.0045,3,3,1,0.32,kuintal
+AGRI-0175,Wukirsari,PAD-037,Kregan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4002,0.5266,6,3,1,28.84,kuintal
+AGRI-0176,Glagaharjo,PAD-048,Kalitengah Kidul,Bawang Merah,Hortikultura,2024,0.0062,0.0076,2,1,1,0.36,kuintal
+AGRI-0177,Wukirsari,PAD-029,Sempon,Bawang Merah,Hortikultura,2024,0.0144,0.0179,2,2,1,1.21,kuintal
+AGRI-0178,Wukirsari,PAD-024,Glagahwero,Bawang Merah,Hortikultura,2024,0.0041,0.0055,2,1,1,0.38,kuintal
+AGRI-0179,Argomulyo,PAD-012,Karanglo,Kunyit,Tanaman Obat,2023,0.074,0.0982,2,1,1,0.3893,kuintal
+AGRI-0180,Glagaharjo,PAD-050,Singlar,Kencur,Tanaman Obat,2023,0.0914,0.1012,2,2,1,0.4896,kuintal
+AGRI-0181,Wukirsari,PAD-023,Karangpakis,Cabai Rawit,Hortikultura,2024,2.7718,3.6025,27,22,3,287.52,kuintal
+AGRI-0182,Argomulyo,PAD-009,Brongkol,Jahe,Tanaman Obat,2023,0.1007,0.1189,2,1,1,0.776,kuintal
+AGRI-0183,Wukirsari,PAD-032,Sembungan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.608,0.7045,8,5,1,66.73,kuintal
+AGRI-0184,Wukirsari,PAD-026,Sruni,Bawang Merah,Hortikultura,2024,0.0059,0.0065,3,1,1,0.48,kuintal
+AGRI-0185,Wukirsari,PAD-035,Selorejo,Cabai Keriting,Hortikultura,2024,0.4583,0.5734,6,5,1,35.35,kuintal
+AGRI-0186,Kepuharjo,PAD-064,Manggong,Jahe,Tanaman Obat,2023,0.2645,0.3522,3,2,1,3.0904,kuintal
+AGRI-0187,Umbulharjo,PAD-068,Gambretan,Kunyit,Tanaman Obat,2023,0.141,0.1762,2,1,1,0.5127,kuintal
+AGRI-0188,Wukirsari,PAD-036,Plupuh,Cabai Keriting,Hortikultura,2024,0.492,0.5382,3,2,1,37.59,kuintal
+AGRI-0189,Umbulharjo,PAD-073,Pentingsari,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6537,0.7071,9,6,1,55.02,kuintal
+AGRI-0190,Wukirsari,PAD-042,Ngepringan,Cabai Rawit,Hortikultura,2024,0.4301,0.5404,2,1,1,37.52,kuintal
+AGRI-0191,Wukirsari,PAD-037,Kregan,Bawang Merah,Hortikultura,2024,0.0108,0.0129,2,1,1,0.92,kuintal
+AGRI-0192,Umbulharjo,PAD-067,Gondang,Kencur,Tanaman Obat,2023,0.0936,0.1145,2,2,1,0.5124,kuintal
+AGRI-0193,Umbulharjo,PAD-069,Balong,Cabai Rawit,Hortikultura,2024,0.0865,0.1139,2,2,1,11.2,kuintal
+AGRI-0194,Umbulharjo,PAD-066,Pangukrejo,Jahe,Tanaman Obat,2023,0.2705,0.327,2,1,1,2.817,kuintal
+AGRI-0195,Wukirsari,PAD-023,Karangpakis,Cabai Besar/TW/Teropong,Hortikultura,2024,1.6842,2.2274,19,15,2,112.44,kuintal
+AGRI-0196,Wukirsari,PAD-034,Bedoyo,Cabai Keriting,Hortikultura,2024,0.5974,0.7045,6,4,1,50.3,kuintal
+AGRI-0197,Kepuharjo,PAD-064,Manggong,Cabai Keriting,Hortikultura,2024,0.8939,1.1041,10,7,1,76.03,kuintal
+AGRI-0198,Wukirsari,PAD-036,Plupuh,Kencur,Tanaman Obat,2023,0.0457,0.0507,2,1,1,0.2796,kuintal
+AGRI-0199,Argomulyo,PAD-017,Banaran,Cabai Rawit,Hortikultura,2024,0.7346,0.9126,7,4,1,71.55,kuintal
+AGRI-0200,Umbulharjo,PAD-073,Pentingsari,Cabai Rawit,Hortikultura,2024,0.5608,0.6163,8,5,1,40.32,kuintal
+AGRI-0201,Glagaharjo,PAD-055,Banjarsari,Jahe,Tanaman Obat,2023,0.1772,0.2123,2,2,1,1.608,kuintal
+AGRI-0202,Argomulyo,PAD-016,Gadingan,Bawang Merah,Hortikultura,2024,0.0051,0.0068,2,2,1,0.45,kuintal
+AGRI-0203,Umbulharjo,PAD-070,Plosorejo,Bawang Merah,Hortikultura,2024,0.0157,0.0176,2,1,1,1.3,kuintal
+AGRI-0204,Glagaharjo,PAD-050,Singlar,Jahe,Tanaman Obat,2023,0.2409,0.2876,2,1,1,2.2955,kuintal
+AGRI-0205,Wukirsari,PAD-037,Kregan,Kencur,Tanaman Obat,2023,0.0326,0.0376,2,2,1,0.2052,kuintal
+AGRI-0206,Glagaharjo,PAD-049,Srunen,Kencur,Tanaman Obat,2023,0.068,0.0804,2,2,1,0.4835,kuintal
+AGRI-0207,Umbulharjo,PAD-068,Gambretan,Jahe,Tanaman Obat,2023,0.5752,0.7738,6,4,1,8.4086,kuintal
+AGRI-0208,Wukirsari,PAD-023,Karangpakis,Cabai Keriting,Hortikultura,2024,0.3398,0.3979,6,4,1,29.27,kuintal
+AGRI-0209,Argomulyo,PAD-015,Bakalan,Jahe,Tanaman Obat,2023,0.1816,0.2083,2,1,1,2.8648,kuintal
+AGRI-0210,Wukirsari,PAD-046,Cangcangan,Kencur,Tanaman Obat,2023,0.0328,0.0361,4,3,1,0.209,kuintal
+AGRI-0211,Wukirsari,PAD-040,Duwet,Bawang Merah,Hortikultura,2024,0.0045,0.0051,2,2,1,0.31,kuintal
+AGRI-0212,Kepuharjo,PAD-062,Pagerjurang,Cabai Besar/TW/Teropong,Hortikultura,2024,0.2281,0.2726,2,2,1,16.11,kuintal
+AGRI-0213,Argomulyo,PAD-018,Kauman,Cabai Rawit,Hortikultura,2024,0.3293,0.3854,2,2,1,29.56,kuintal
+AGRI-0214,Wukirsari,PAD-035,Selorejo,Jahe,Tanaman Obat,2023,0.1828,0.2066,8,4,1,3.1522,kuintal
+AGRI-0215,Wukirsari,PAD-024,Glagahwero,Jahe,Tanaman Obat,2023,0.0992,0.1192,2,1,1,1.2345,kuintal
+AGRI-0216,Argomulyo,PAD-022,Mudal,Kunyit,Tanaman Obat,2023,0.1113,0.1323,2,1,1,0.4962,kuintal
+AGRI-0217,Wukirsari,PAD-046,Cangcangan,Cabai Rawit,Hortikultura,2024,0.5671,0.6631,7,3,1,49.2,kuintal
+AGRI-0218,Wukirsari,PAD-033,Tanjung,Kencur,Tanaman Obat,2023,0.0845,0.1136,2,1,1,0.4552,kuintal
+AGRI-0219,Argomulyo,PAD-006,Kebur Lor,Jahe,Tanaman Obat,2023,0.504,0.5505,7,3,1,5.1562,kuintal
+AGRI-0220,Wukirsari,PAD-033,Tanjung,Bawang Merah,Hortikultura,2024,0.0061,0.0072,2,1,1,0.42,kuintal
+AGRI-0221,Glagaharjo,PAD-052,Glagah Malang,Kunyit,Tanaman Obat,2023,0.0873,0.0961,2,1,1,0.4654,kuintal
+AGRI-0222,Kepuharjo,PAD-062,Pagerjurang,Kencur,Tanaman Obat,2023,0.0881,0.102,2,1,1,0.4557,kuintal
+AGRI-0223,Wukirsari,PAD-045,Surodadi,Jahe,Tanaman Obat,2023,0.0982,0.1122,2,1,1,0.9087,kuintal
+AGRI-0224,Glagaharjo,PAD-047,Kalitengah Lor,Kunyit,Tanaman Obat,2023,0.1115,0.1479,4,3,1,0.6381,kuintal
+AGRI-0225,Wukirsari,PAD-042,Ngepringan,Kencur,Tanaman Obat,2023,0.0659,0.0755,2,1,1,0.2818,kuintal
+AGRI-0226,Wukirsari,PAD-046,Cangcangan,Kunyit,Tanaman Obat,2023,0.0373,0.0459,2,1,1,0.2629,kuintal
+AGRI-0227,Argomulyo,PAD-012,Karanglo,Kencur,Tanaman Obat,2023,0.0457,0.0602,2,1,1,0.2408,kuintal
+AGRI-0228,Argomulyo,PAD-016,Gadingan,Cabai Rawit,Hortikultura,2024,0.8393,0.9081,9,4,1,63.83,kuintal
+AGRI-0229,Wukirsari,PAD-030,Ngemplak,Jahe,Tanaman Obat,2023,0.5921,0.7408,5,2,1,7.2218,kuintal
+AGRI-0230,Wukirsari,PAD-028,Rejosari,Kunyit,Tanaman Obat,2023,0.1725,0.2243,5,4,1,0.9603,kuintal
+AGRI-0231,Argomulyo,PAD-005,Teplok,Bawang Merah,Hortikultura,2024,0.008,0.0087,3,2,1,0.76,kuintal
+AGRI-0232,Argomulyo,PAD-013,Jetis,Jahe,Tanaman Obat,2023,0.0601,0.0654,2,1,1,0.7017,kuintal
+AGRI-0233,Argomulyo,PAD-008,Sewon,Jahe,Tanaman Obat,2023,0.157,0.1979,3,2,1,1.5288,kuintal
+AGRI-0234,Kepuharjo,PAD-061,Batur,Jahe,Tanaman Obat,2023,0.4414,0.5042,3,2,1,7.5552,kuintal
+AGRI-0235,Wukirsari,PAD-043,Gondang,Cabai Besar/TW/Teropong,Hortikultura,2024,1.1287,1.3842,13,7,1,107.39,kuintal
+AGRI-0236,Wukirsari,PAD-035,Selorejo,Cabai Rawit,Hortikultura,2024,0.5347,0.67,10,9,1,52.27,kuintal
+AGRI-0237,Kepuharjo,PAD-059,Petung,Cabai Keriting,Hortikultura,2024,0.3511,0.4209,3,3,1,28.68,kuintal
+AGRI-0238,Glagaharjo,PAD-053,Jetis Sumur,Cabai Rawit,Hortikultura,2024,0.108,0.1209,2,1,1,8.29,kuintal
+AGRI-0239,Wukirsari,PAD-043,Gondang,Kencur,Tanaman Obat,2023,0.0235,0.0312,2,1,1,0.0936,kuintal
+AGRI-0240,Glagaharjo,PAD-052,Glagah Malang,Cabai Besar/TW/Teropong,Hortikultura,2024,2.0648,2.5755,22,18,2,175.29,kuintal
+AGRI-0241,Wukirsari,PAD-028,Rejosari,Cabai Rawit,Hortikultura,2024,0.5181,0.6128,2,1,1,44.57,kuintal
+AGRI-0242,Argomulyo,PAD-005,Teplok,Cabai Rawit,Hortikultura,2024,1.239,1.4084,12,6,2,126.78,kuintal
+AGRI-0243,Argomulyo,PAD-020,Dliring,Jahe,Tanaman Obat,2023,0.1405,0.1883,2,2,1,1.8961,kuintal
+AGRI-0244,Umbulharjo,PAD-068,Gambretan,Cabai Keriting,Hortikultura,2024,0.7195,0.9178,9,8,1,84.08,kuintal
+AGRI-0245,Kepuharjo,PAD-059,Petung,Bawang Merah,Hortikultura,2024,0.0175,0.019,2,1,1,1.11,kuintal
+AGRI-0246,Umbulharjo,PAD-072,Plosokerep,Bawang Merah,Hortikultura,2024,0.0224,0.0276,2,2,1,1.89,kuintal
+AGRI-0247,Wukirsari,PAD-036,Plupuh,Bawang Merah,Hortikultura,2024,0.0097,0.013,2,2,1,0.85,kuintal
+AGRI-0248,Argomulyo,PAD-008,Sewon,Cabai Rawit,Hortikultura,2024,1.4992,1.9071,15,11,2,180.02,kuintal
+AGRI-0249,Argomulyo,PAD-014,Suruh,Kencur,Tanaman Obat,2023,0.0516,0.0589,2,1,1,0.202,kuintal
+AGRI-0250,Wukirsari,PAD-039,Cakran,Kunyit,Tanaman Obat,2023,0.0749,0.0951,2,2,1,0.4179,kuintal
+AGRI-0251,Argomulyo,PAD-019,Jiwan,Cabai Keriting,Hortikultura,2024,1.5424,2.0733,14,7,2,114.13,kuintal
+AGRI-0252,Wukirsari,PAD-043,Gondang,Bawang Merah,Hortikultura,2024,0.0099,0.0132,2,1,1,1.13,kuintal
+AGRI-0253,Wukirsari,PAD-036,Plupuh,Kunyit,Tanaman Obat,2023,0.0571,0.0674,3,2,1,0.3315,kuintal
+AGRI-0254,Argomulyo,PAD-004,Kliwang,Cabai Keriting,Hortikultura,2024,1.6957,2.0661,13,8,1,189.74,kuintal
+AGRI-0255,Argomulyo,PAD-007,Kebur Kidul,Kencur,Tanaman Obat,2023,0.0264,0.0289,2,1,1,0.1275,kuintal
+AGRI-0256,Glagaharjo,PAD-050,Singlar,Cabai Besar/TW/Teropong,Hortikultura,2024,0.413,0.4667,6,3,1,48.5,kuintal
+AGRI-0257,Wukirsari,PAD-039,Cakran,Cabai Rawit,Hortikultura,2024,0.7918,0.9059,9,6,1,53.81,kuintal
+AGRI-0258,Glagaharjo,PAD-051,Gading,Cabai Rawit,Hortikultura,2024,0.6478,0.7538,8,4,1,45.01,kuintal
+AGRI-0259,Glagaharjo,PAD-053,Jetis Sumur,Cabai Keriting,Hortikultura,2024,0.7211,0.8076,9,7,1,87.59,kuintal
+AGRI-0260,Umbulharjo,PAD-068,Gambretan,Cabai Rawit,Hortikultura,2024,0.3941,0.4554,5,3,1,33.2,kuintal
+AGRI-0261,Argomulyo,PAD-003,Panggung,Cabai Keriting,Hortikultura,2024,0.4587,0.532,6,5,1,37.17,kuintal
+AGRI-0262,Kepuharjo,PAD-058,Jambu,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7111,0.8538,7,5,1,65.35,kuintal
+AGRI-0263,Glagaharjo,PAD-054,Ngancar,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8741,1.131,11,7,1,74.16,kuintal
+AGRI-0264,Argomulyo,PAD-001,Randusari,Kunyit,Tanaman Obat,2023,0.1697,0.209,2,1,1,1.1603,kuintal
+AGRI-0265,Umbulharjo,PAD-071,Karanggeneng,Kunyit,Tanaman Obat,2023,0.0968,0.1218,2,1,1,0.421,kuintal
+AGRI-0266,Argomulyo,PAD-008,Sewon,Kencur,Tanaman Obat,2023,0.0703,0.0814,2,2,1,0.4084,kuintal
+AGRI-0267,Umbulharjo,PAD-067,Gondang,Cabai Rawit,Hortikultura,2024,0.4849,0.6073,5,4,1,34.9,kuintal
+AGRI-0268,Glagaharjo,PAD-048,Kalitengah Kidul,Kencur,Tanaman Obat,2023,0.0942,0.1127,2,1,1,0.4942,kuintal
+AGRI-0269,Kepuharjo,PAD-061,Batur,Cabai Keriting,Hortikultura,2024,1.1164,1.295,14,12,2,99.45,kuintal
+AGRI-0270,Argomulyo,PAD-017,Banaran,Kencur,Tanaman Obat,2023,0.0236,0.0304,2,1,1,0.102,kuintal
+AGRI-0271,Argomulyo,PAD-014,Suruh,Cabai Keriting,Hortikultura,2024,0.6401,0.7439,7,5,1,60.36,kuintal
+AGRI-0272,Umbulharjo,PAD-068,Gambretan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7886,0.9441,8,6,1,56.18,kuintal
+AGRI-0273,Kepuharjo,PAD-057,Kaliadem,Kencur,Tanaman Obat,2023,0.0667,0.0881,2,1,1,0.3101,kuintal
+AGRI-0274,Glagaharjo,PAD-056,Besalen,Jahe,Tanaman Obat,2023,0.0571,0.0719,2,2,1,0.4566,kuintal
+AGRI-0275,Umbulharjo,PAD-073,Pentingsari,Kunyit,Tanaman Obat,2023,0.0875,0.1066,2,1,1,0.4247,kuintal
+AGRI-0276,Argomulyo,PAD-022,Mudal,Cabai Rawit,Hortikultura,2024,0.3596,0.4415,2,1,1,29.44,kuintal
+AGRI-0277,Argomulyo,PAD-020,Dliring,Kunyit,Tanaman Obat,2023,0.1622,0.2086,6,3,1,0.8539,kuintal
+AGRI-0278,Glagaharjo,PAD-056,Besalen,Cabai Keriting,Hortikultura,2024,2.7477,3.1931,27,13,3,243.94,kuintal
+AGRI-0279,Argomulyo,PAD-006,Kebur Lor,Cabai Keriting,Hortikultura,2024,1.1881,1.4731,12,10,1,149.05,kuintal
+AGRI-0280,Argomulyo,PAD-010,Cangkringan,Bawang Merah,Hortikultura,2024,0.0056,0.0062,2,2,1,0.42,kuintal
+AGRI-0281,Wukirsari,PAD-029,Sempon,Jahe,Tanaman Obat,2023,0.1592,0.1806,4,2,1,2.3061,kuintal
+AGRI-0282,Kepuharjo,PAD-061,Batur,Kencur,Tanaman Obat,2023,0.0243,0.0281,2,1,1,0.1309,kuintal
+AGRI-0283,Argomulyo,PAD-002,Kuwang,Cabai Keriting,Hortikultura,2024,0.2915,0.3344,2,1,1,34.25,kuintal
+AGRI-0284,Umbulharjo,PAD-072,Plosokerep,Kunyit,Tanaman Obat,2023,0.1048,0.1256,2,2,1,0.625,kuintal
+AGRI-0285,Wukirsari,PAD-033,Tanjung,Cabai Besar/TW/Teropong,Hortikultura,2024,0.1432,0.1694,2,2,1,9.41,kuintal
+AGRI-0286,Argomulyo,PAD-002,Kuwang,Cabai Besar/TW/Teropong,Hortikultura,2024,1.4864,1.7434,14,8,1,117.93,kuintal
+AGRI-0287,Wukirsari,PAD-034,Bedoyo,Jahe,Tanaman Obat,2023,1.8275,2.4086,18,15,2,14.1115,kuintal
+AGRI-0288,Argomulyo,PAD-001,Randusari,Jahe,Tanaman Obat,2023,0.2419,0.3134,2,1,1,3.1687,kuintal
+AGRI-0289,Argomulyo,PAD-015,Bakalan,Cabai Keriting,Hortikultura,2024,1.5384,1.7284,15,12,1,125.69,kuintal
+AGRI-0290,Argomulyo,PAD-003,Panggung,Cabai Rawit,Hortikultura,2024,0.8004,0.8945,10,6,1,87.0,kuintal
+AGRI-0291,Kepuharjo,PAD-062,Pagerjurang,Kunyit,Tanaman Obat,2023,0.4238,0.5619,6,4,1,1.6638,kuintal
+AGRI-0292,Kepuharjo,PAD-060,Kopeng,Cabai Rawit,Hortikultura,2024,0.496,0.5389,8,5,1,43.08,kuintal
+AGRI-0293,Argomulyo,PAD-022,Mudal,Cabai Besar/TW/Teropong,Hortikultura,2024,1.1263,1.2362,11,9,1,108.23,kuintal
+AGRI-0294,Glagaharjo,PAD-052,Glagah Malang,Cabai Rawit,Hortikultura,2024,0.6369,0.7328,7,5,1,55.35,kuintal
+AGRI-0295,Wukirsari,PAD-042,Ngepringan,Cabai Keriting,Hortikultura,2024,1.3696,1.5755,13,8,1,126.98,kuintal
+AGRI-0296,Argomulyo,PAD-017,Banaran,Kunyit,Tanaman Obat,2023,0.0718,0.0887,3,2,1,0.2262,kuintal
+AGRI-0297,Wukirsari,PAD-030,Ngemplak,Kencur,Tanaman Obat,2023,0.0243,0.0317,3,2,1,0.1138,kuintal
+AGRI-0298,Argomulyo,PAD-020,Dliring,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3003,0.3486,3,2,1,22.85,kuintal
+AGRI-0299,Wukirsari,PAD-043,Gondang,Cabai Rawit,Hortikultura,2024,0.9614,1.269,6,3,1,77.79,kuintal
+AGRI-0300,Argomulyo,PAD-002,Kuwang,Kencur,Tanaman Obat,2023,0.019,0.0214,2,1,1,0.0962,kuintal
+AGRI-0301,Kepuharjo,PAD-058,Jambu,Jahe,Tanaman Obat,2023,0.2565,0.3136,2,1,1,3.1402,kuintal
+AGRI-0302,Argomulyo,PAD-009,Brongkol,Bawang Merah,Hortikultura,2024,0.0044,0.0059,2,1,1,0.41,kuintal
+AGRI-0303,Wukirsari,PAD-040,Duwet,Kencur,Tanaman Obat,2023,0.0393,0.0481,5,3,1,0.1645,kuintal
+AGRI-0304,Argomulyo,PAD-013,Jetis,Cabai Besar/TW/Teropong,Hortikultura,2024,0.5615,0.6192,4,2,1,39.8,kuintal
+AGRI-0305,Wukirsari,PAD-041,Gungan,Cabai Keriting,Hortikultura,2024,0.52,0.588,9,6,1,37.93,kuintal
+AGRI-0306,Argomulyo,PAD-004,Kliwang,Bawang Merah,Hortikultura,2024,0.0163,0.0199,2,2,1,1.51,kuintal
+AGRI-0307,Argomulyo,PAD-021,Gayam,Kencur,Tanaman Obat,2023,0.147,0.1775,2,1,1,0.8027,kuintal
+AGRI-0308,Argomulyo,PAD-003,Panggung,Cabai Besar/TW/Teropong,Hortikultura,2024,0.5633,0.6216,4,3,1,39.1,kuintal
+AGRI-0309,Glagaharjo,PAD-050,Singlar,Bawang Merah,Hortikultura,2024,0.0255,0.0335,2,1,1,1.81,kuintal
+AGRI-0310,Glagaharjo,PAD-051,Gading,Cabai Keriting,Hortikultura,2024,0.4901,0.6084,7,4,1,32.65,kuintal
+AGRI-0311,Wukirsari,PAD-037,Kregan,Kunyit,Tanaman Obat,2023,0.0373,0.0423,2,1,1,0.2276,kuintal
+AGRI-0312,Wukirsari,PAD-035,Selorejo,Bawang Merah,Hortikultura,2024,0.0076,0.0086,2,1,1,0.6,kuintal
+AGRI-0313,Argomulyo,PAD-018,Kauman,Bawang Merah,Hortikultura,2024,0.0038,0.0047,2,1,1,0.31,kuintal
+AGRI-0314,Wukirsari,PAD-025,Pusmalang,Cabai Keriting,Hortikultura,2024,1.0203,1.205,12,10,1,84.5,kuintal
+AGRI-0315,Wukirsari,PAD-032,Sembungan,Cabai Keriting,Hortikultura,2024,0.7964,1.0138,10,7,1,78.11,kuintal
+AGRI-0316,Wukirsari,PAD-029,Sempon,Kunyit,Tanaman Obat,2023,0.1794,0.2174,4,2,1,1.365,kuintal
+AGRI-0317,Wukirsari,PAD-034,Bedoyo,Kencur,Tanaman Obat,2023,0.0804,0.0873,2,1,1,0.4768,kuintal
+AGRI-0318,Argomulyo,PAD-016,Gadingan,Kunyit,Tanaman Obat,2023,0.1137,0.1235,2,2,1,0.5045,kuintal
+AGRI-0319,Argomulyo,PAD-011,Jaranan,Kencur,Tanaman Obat,2023,0.0196,0.0241,3,2,1,0.1021,kuintal
+AGRI-0320,Wukirsari,PAD-029,Sempon,Kencur,Tanaman Obat,2023,0.1641,0.1847,2,1,1,0.9291,kuintal
+AGRI-0321,Wukirsari,PAD-030,Ngemplak,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3316,0.3933,4,2,1,24.88,kuintal
+AGRI-0322,Wukirsari,PAD-036,Plupuh,Jahe,Tanaman Obat,2023,0.8468,1.1112,9,4,1,10.2839,kuintal
+AGRI-0323,Glagaharjo,PAD-048,Kalitengah Kidul,Jahe,Tanaman Obat,2023,0.0982,0.1199,2,1,1,1.1961,kuintal
+AGRI-0324,Argomulyo,PAD-011,Jaranan,Kunyit,Tanaman Obat,2023,0.199,0.2615,2,1,1,0.784,kuintal
+AGRI-0325,Argomulyo,PAD-014,Suruh,Cabai Rawit,Hortikultura,2024,1.2724,1.419,10,5,1,81.75,kuintal
+AGRI-0326,Wukirsari,PAD-040,Duwet,Cabai Keriting,Hortikultura,2024,0.7174,0.8876,10,6,1,75.22,kuintal
+AGRI-0327,Wukirsari,PAD-025,Pusmalang,Bawang Merah,Hortikultura,2024,0.011,0.0129,2,1,1,1.29,kuintal
+AGRI-0328,Wukirsari,PAD-031,Kiyaran,Cabai Keriting,Hortikultura,2024,0.7155,0.8111,4,2,1,78.9,kuintal
+AGRI-0329,Argomulyo,PAD-011,Jaranan,Cabai Keriting,Hortikultura,2024,0.9787,1.0999,11,10,1,77.14,kuintal
+AGRI-0330,Kepuharjo,PAD-063,Kepuh,Kunyit,Tanaman Obat,2023,0.1138,0.1273,3,2,1,0.4925,kuintal
+AGRI-0331,Argomulyo,PAD-001,Randusari,Cabai Keriting,Hortikultura,2024,0.2759,0.3529,8,5,1,29.28,kuintal
+AGRI-0332,Argomulyo,PAD-001,Randusari,Cabai Rawit,Hortikultura,2024,0.3532,0.4348,2,1,1,38.24,kuintal
+AGRI-0333,Wukirsari,PAD-040,Duwet,Cabai Rawit,Hortikultura,2024,1.6315,1.7851,18,15,2,149.92,kuintal
+AGRI-0334,Glagaharjo,PAD-047,Kalitengah Lor,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7999,0.9536,7,6,1,91.31,kuintal
+AGRI-0335,Glagaharjo,PAD-049,Srunen,Kunyit,Tanaman Obat,2023,0.0876,0.1136,2,1,1,0.4401,kuintal
+AGRI-0336,Argomulyo,PAD-021,Gayam,Cabai Rawit,Hortikultura,2024,0.5544,0.6169,9,7,1,58.37,kuintal
+AGRI-0337,Argomulyo,PAD-006,Kebur Lor,Cabai Rawit,Hortikultura,2024,0.2989,0.3597,5,3,1,20.38,kuintal
+AGRI-0338,Wukirsari,PAD-041,Gungan,Kencur,Tanaman Obat,2023,0.0672,0.0736,2,1,1,0.3957,kuintal
+AGRI-0339,Wukirsari,PAD-030,Ngemplak,Bawang Merah,Hortikultura,2024,0.006,0.0069,2,1,1,0.53,kuintal
+AGRI-0340,Kepuharjo,PAD-061,Batur,Bawang Merah,Hortikultura,2024,0.0073,0.0091,2,1,1,0.59,kuintal
+AGRI-0341,Umbulharjo,PAD-071,Karanggeneng,Cabai Rawit,Hortikultura,2024,0.5275,0.7008,4,2,1,38.79,kuintal
+AGRI-0342,Wukirsari,PAD-028,Rejosari,Kencur,Tanaman Obat,2023,0.0604,0.0804,2,1,1,0.3612,kuintal
+AGRI-0343,Argomulyo,PAD-018,Kauman,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4969,0.6527,4,3,1,36.02,kuintal
+AGRI-0344,Argomulyo,PAD-013,Jetis,Kunyit,Tanaman Obat,2023,0.0513,0.0577,2,1,1,0.3916,kuintal
+AGRI-0345,Wukirsari,PAD-024,Glagahwero,Kunyit,Tanaman Obat,2023,0.1153,0.1398,2,1,1,0.6258,kuintal
+AGRI-0346,Wukirsari,PAD-033,Tanjung,Kunyit,Tanaman Obat,2023,0.0343,0.0462,2,1,1,0.2263,kuintal
+AGRI-0347,Umbulharjo,PAD-073,Pentingsari,Kencur,Tanaman Obat,2023,0.09,0.102,2,1,1,0.3425,kuintal
+AGRI-0348,Wukirsari,PAD-041,Gungan,Cabai Rawit,Hortikultura,2024,4.3219,5.6816,40,18,3,288.91,kuintal
+AGRI-0349,Umbulharjo,PAD-071,Karanggeneng,Kencur,Tanaman Obat,2023,0.0431,0.0511,2,1,1,0.2545,kuintal
+AGRI-0350,Glagaharjo,PAD-054,Ngancar,Jahe,Tanaman Obat,2023,0.1436,0.1656,2,1,1,1.3307,kuintal
+AGRI-0351,Glagaharjo,PAD-053,Jetis Sumur,Jahe,Tanaman Obat,2023,0.1802,0.2207,2,2,1,1.5655,kuintal
+AGRI-0352,Argomulyo,PAD-013,Jetis,Bawang Merah,Hortikultura,2024,0.014,0.016,2,2,1,1.53,kuintal
+AGRI-0353,Glagaharjo,PAD-056,Besalen,Kunyit,Tanaman Obat,2023,0.1531,0.1952,2,1,1,0.7526,kuintal
+AGRI-0354,Glagaharjo,PAD-049,Srunen,Cabai Keriting,Hortikultura,2024,0.4253,0.5388,2,2,1,43.75,kuintal
+AGRI-0355,Wukirsari,PAD-036,Plupuh,Cabai Rawit,Hortikultura,2024,0.8888,0.977,4,2,1,57.25,kuintal
+AGRI-0356,Wukirsari,PAD-037,Kregan,Jahe,Tanaman Obat,2023,0.4552,0.6072,4,2,1,4.1554,kuintal
+AGRI-0357,Wukirsari,PAD-046,Cangcangan,Jahe,Tanaman Obat,2023,0.3396,0.4135,6,5,1,3.6874,kuintal
+AGRI-0358,Wukirsari,PAD-045,Surodadi,Cabai Besar/TW/Teropong,Hortikultura,2024,1.0508,1.3556,9,7,1,87.42,kuintal
+AGRI-0359,Wukirsari,PAD-026,Sruni,Kunyit,Tanaman Obat,2023,0.2169,0.2613,5,3,1,0.99,kuintal
+AGRI-0360,Argomulyo,PAD-003,Panggung,Bawang Merah,Hortikultura,2024,0.006,0.0071,2,2,1,0.54,kuintal
+AGRI-0361,Kepuharjo,PAD-059,Petung,Cabai Besar/TW/Teropong,Hortikultura,2024,0.9815,1.2216,12,8,1,85.15,kuintal
+AGRI-0362,Glagaharjo,PAD-047,Kalitengah Lor,Kencur,Tanaman Obat,2023,0.0913,0.1047,2,2,1,0.4257,kuintal
+AGRI-0363,Wukirsari,PAD-031,Kiyaran,Cabai Besar/TW/Teropong,Hortikultura,2024,1.5912,2.0055,16,13,2,101.34,kuintal
+AGRI-0364,Glagaharjo,PAD-047,Kalitengah Lor,Cabai Rawit,Hortikultura,2024,0.3599,0.3997,2,1,1,30.66,kuintal
+AGRI-0365,Argomulyo,PAD-007,Kebur Kidul,Bawang Merah,Hortikultura,2024,0.0018,0.0022,2,2,1,0.15,kuintal
+AGRI-0366,Argomulyo,PAD-010,Cangkringan,Cabai Rawit,Hortikultura,2024,1.3184,1.7788,14,8,2,101.0,kuintal
+AGRI-0367,Kepuharjo,PAD-059,Petung,Jahe,Tanaman Obat,2023,0.1507,0.1958,2,1,1,1.1763,kuintal
+AGRI-0368,Kepuharjo,PAD-061,Batur,Cabai Besar/TW/Teropong,Hortikultura,2024,0.9227,1.067,8,7,1,74.49,kuintal
+AGRI-0369,Argomulyo,PAD-019,Jiwan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.8935,0.9879,8,4,1,68.59,kuintal
+AGRI-0370,Glagaharjo,PAD-055,Banjarsari,Cabai Rawit,Hortikultura,2024,0.8886,1.1357,9,8,1,54.18,kuintal
+AGRI-0371,Umbulharjo,PAD-069,Balong,Kencur,Tanaman Obat,2023,0.0579,0.07,2,2,1,0.2657,kuintal
+AGRI-0372,Kepuharjo,PAD-057,Kaliadem,Bawang Merah,Hortikultura,2024,0.0037,0.005,2,1,1,0.22,kuintal
+AGRI-0373,Kepuharjo,PAD-063,Kepuh,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7647,0.9928,6,4,1,64.53,kuintal
+AGRI-0374,Umbulharjo,PAD-072,Plosokerep,Cabai Keriting,Hortikultura,2024,1.7239,2.193,16,13,2,126.61,kuintal
+AGRI-0375,Kepuharjo,PAD-058,Jambu,Cabai Rawit,Hortikultura,2024,0.3204,0.3594,3,2,1,30.35,kuintal
+AGRI-0376,Argomulyo,PAD-009,Brongkol,Cabai Keriting,Hortikultura,2024,0.3402,0.3966,2,1,1,27.95,kuintal
+AGRI-0377,Kepuharjo,PAD-057,Kaliadem,Jahe,Tanaman Obat,2023,0.1254,0.1443,2,1,1,1.4272,kuintal
+AGRI-0378,Umbulharjo,PAD-066,Pangukrejo,Cabai Keriting,Hortikultura,2024,2.6104,2.9391,29,19,2,346.19,kuintal
+AGRI-0379,Argomulyo,PAD-004,Kliwang,Kencur,Tanaman Obat,2023,0.0715,0.0807,2,1,1,0.2901,kuintal
+AGRI-0380,Argomulyo,PAD-008,Sewon,Bawang Merah,Hortikultura,2024,0.0115,0.015,2,1,1,0.8,kuintal
+AGRI-0381,Kepuharjo,PAD-058,Jambu,Cabai Keriting,Hortikultura,2024,2.0807,2.7383,19,16,2,184.18,kuintal
+AGRI-0382,Wukirsari,PAD-044,Bulaksalak,Cabai Rawit,Hortikultura,2024,0.5839,0.7162,7,5,1,31.64,kuintal
+AGRI-0383,Wukirsari,PAD-034,Bedoyo,Kunyit,Tanaman Obat,2023,0.0487,0.0615,2,1,1,0.286,kuintal
+AGRI-0384,Argomulyo,PAD-012,Karanglo,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3724,0.447,4,2,1,34.6,kuintal
+AGRI-0385,Umbulharjo,PAD-067,Gondang,Cabai Besar/TW/Teropong,Hortikultura,2024,0.331,0.3579,2,1,1,15.67,kuintal
+AGRI-0386,Wukirsari,PAD-033,Tanjung,Jahe,Tanaman Obat,2023,0.2524,0.2785,2,1,1,2.985,kuintal
+AGRI-0387,Argomulyo,PAD-014,Suruh,Bawang Merah,Hortikultura,2024,0.0163,0.0213,2,2,1,1.46,kuintal
+AGRI-0388,Argomulyo,PAD-005,Teplok,Kunyit,Tanaman Obat,2023,0.0806,0.0943,2,2,1,0.7079,kuintal
+AGRI-0389,Argomulyo,PAD-013,Jetis,Cabai Rawit,Hortikultura,2024,0.3114,0.4002,4,2,1,25.11,kuintal
+AGRI-0390,Wukirsari,PAD-028,Rejosari,Cabai Besar/TW/Teropong,Hortikultura,2024,0.2662,0.2996,2,2,1,15.78,kuintal
+AGRI-0391,Wukirsari,PAD-031,Kiyaran,Kunyit,Tanaman Obat,2023,0.1135,0.1249,2,2,1,0.4386,kuintal
+AGRI-0392,Glagaharjo,PAD-054,Ngancar,Cabai Rawit,Hortikultura,2024,0.2591,0.3051,4,3,1,26.39,kuintal
+AGRI-0393,Wukirsari,PAD-026,Sruni,Cabai Keriting,Hortikultura,2024,1.3931,1.6172,14,8,2,111.37,kuintal
+AGRI-0394,Wukirsari,PAD-024,Glagahwero,Cabai Rawit,Hortikultura,2024,1.7593,2.1611,16,12,2,180.07,kuintal
+AGRI-0395,Argomulyo,PAD-010,Cangkringan,Cabai Keriting,Hortikultura,2024,0.5351,0.6578,2,1,1,59.88,kuintal
+AGRI-0396,Wukirsari,PAD-032,Sembungan,Jahe,Tanaman Obat,2023,0.1917,0.2147,2,1,1,1.8426,kuintal
+AGRI-0397,Kepuharjo,PAD-059,Petung,Cabai Rawit,Hortikultura,2024,0.5148,0.6156,5,3,1,41.13,kuintal
+AGRI-0398,Kepuharjo,PAD-064,Manggong,Cabai Rawit,Hortikultura,2024,0.3855,0.4188,2,1,1,30.62,kuintal
+AGRI-0399,Kepuharjo,PAD-060,Kopeng,Cabai Besar/TW/Teropong,Hortikultura,2024,2.3616,3.1386,21,17,2,174.98,kuintal
+AGRI-0400,Umbulharjo,PAD-065,Pelemsari,Cabai Keriting,Hortikultura,2024,2.0238,2.294,18,14,2,167.8,kuintal
+AGRI-0401,Wukirsari,PAD-025,Pusmalang,Kunyit,Tanaman Obat,2023,0.0828,0.0987,2,1,1,0.4228,kuintal
+AGRI-0402,Wukirsari,PAD-025,Pusmalang,Jahe,Tanaman Obat,2023,0.129,0.1407,2,2,1,1.7741,kuintal
+AGRI-0403,Argomulyo,PAD-019,Jiwan,Kunyit,Tanaman Obat,2023,0.1083,0.143,2,2,1,0.4867,kuintal
+AGRI-0404,Argomulyo,PAD-010,Cangkringan,Kencur,Tanaman Obat,2023,0.0705,0.0794,2,1,1,0.4004,kuintal
+AGRI-0405,Glagaharjo,PAD-051,Gading,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7078,0.8207,6,5,1,61.29,kuintal
+AGRI-0406,Wukirsari,PAD-045,Surodadi,Kencur,Tanaman Obat,2023,0.058,0.0682,3,3,1,0.5027,kuintal
+AGRI-0407,Umbulharjo,PAD-071,Karanggeneng,Bawang Merah,Hortikultura,2024,0.0041,0.0049,2,2,1,0.34,kuintal
+AGRI-0408,Argomulyo,PAD-005,Teplok,Kencur,Tanaman Obat,2023,0.0728,0.0819,3,3,1,0.2942,kuintal
+AGRI-0409,Wukirsari,PAD-034,Bedoyo,Cabai Rawit,Hortikultura,2024,0.9712,1.1022,13,8,2,106.15,kuintal
+AGRI-0410,Umbulharjo,PAD-069,Balong,Jahe,Tanaman Obat,2023,0.4136,0.4495,4,3,1,3.4637,kuintal
+AGRI-0411,Argomulyo,PAD-004,Kliwang,Jahe,Tanaman Obat,2023,0.2096,0.2397,4,3,1,1.976,kuintal
+AGRI-0412,Glagaharjo,PAD-051,Gading,Jahe,Tanaman Obat,2023,0.4364,0.5529,2,1,1,4.5852,kuintal
+AGRI-0413,Kepuharjo,PAD-063,Kepuh,Jahe,Tanaman Obat,2023,0.1382,0.1706,5,4,1,1.8672,kuintal
+AGRI-0414,Umbulharjo,PAD-066,Pangukrejo,Kencur,Tanaman Obat,2023,0.0247,0.0271,2,1,1,0.1285,kuintal
+AGRI-0415,Kepuharjo,PAD-058,Jambu,Kunyit,Tanaman Obat,2023,0.0981,0.1143,3,2,1,0.4472,kuintal
+AGRI-0416,Argomulyo,PAD-012,Karanglo,Bawang Merah,Hortikultura,2024,0.0071,0.0079,2,1,1,0.5,kuintal
+AGRI-0417,Glagaharjo,PAD-051,Gading,Kunyit,Tanaman Obat,2023,0.1191,0.1382,2,1,1,0.5506,kuintal
+AGRI-0418,Wukirsari,PAD-024,Glagahwero,Cabai Keriting,Hortikultura,2024,2.1683,2.5653,18,11,2,161.87,kuintal
+AGRI-0419,Glagaharjo,PAD-047,Kalitengah Lor,Bawang Merah,Hortikultura,2024,0.0074,0.0088,2,1,1,0.63,kuintal
+AGRI-0420,Wukirsari,PAD-039,Cakran,Jahe,Tanaman Obat,2023,0.1633,0.1812,4,4,1,2.0315,kuintal
+AGRI-0421,Umbulharjo,PAD-066,Pangukrejo,Cabai Besar/TW/Teropong,Hortikultura,2024,0.5628,0.6253,6,3,1,34.75,kuintal
+AGRI-0422,Wukirsari,PAD-035,Selorejo,Cabai Besar/TW/Teropong,Hortikultura,2024,1.2799,1.6783,7,4,1,82.15,kuintal
+AGRI-0423,Glagaharjo,PAD-047,Kalitengah Lor,Jahe,Tanaman Obat,2023,0.1712,0.2252,2,2,1,1.7868,kuintal
+AGRI-0424,Glagaharjo,PAD-053,Jetis Sumur,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6243,0.6833,7,4,1,44.33,kuintal
+AGRI-0425,Argomulyo,PAD-009,Brongkol,Cabai Rawit,Hortikultura,2024,0.4103,0.4852,2,1,1,36.55,kuintal
+AGRI-0426,Kepuharjo,PAD-061,Batur,Cabai Rawit,Hortikultura,2024,0.8898,1.0542,8,7,1,102.51,kuintal
+AGRI-0427,Argomulyo,PAD-018,Kauman,Cabai Keriting,Hortikultura,2024,1.516,1.8044,16,8,1,129.93,kuintal
+AGRI-0428,Umbulharjo,PAD-071,Karanggeneng,Jahe,Tanaman Obat,2023,0.1134,0.1327,2,1,1,1.2704,kuintal
+AGRI-0429,Umbulharjo,PAD-069,Balong,Kunyit,Tanaman Obat,2023,0.2105,0.2688,3,3,1,1.0109,kuintal
+AGRI-0430,Wukirsari,PAD-027,Sintokan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.6719,0.7948,8,5,1,55.49,kuintal
+AGRI-0431,Argomulyo,PAD-011,Jaranan,Jahe,Tanaman Obat,2023,0.4049,0.4499,2,1,1,3.7853,kuintal
+AGRI-0432,Wukirsari,PAD-038,Salam Krajan,Kunyit,Tanaman Obat,2023,0.0875,0.0974,2,2,1,0.6814,kuintal
+AGRI-0433,Umbulharjo,PAD-070,Plosorejo,Kencur,Tanaman Obat,2023,0.0743,0.0891,3,2,1,0.2632,kuintal
+AGRI-0434,Argomulyo,PAD-016,Gadingan,Cabai Besar/TW/Teropong,Hortikultura,2024,1.3245,1.6937,10,6,1,101.3,kuintal
+AGRI-0435,Kepuharjo,PAD-062,Pagerjurang,Bawang Merah,Hortikultura,2024,0.0101,0.0116,2,1,1,0.81,kuintal
+AGRI-0436,Wukirsari,PAD-043,Gondang,Cabai Keriting,Hortikultura,2024,1.0659,1.1987,11,6,1,112.22,kuintal
+AGRI-0437,Wukirsari,PAD-044,Bulaksalak,Kencur,Tanaman Obat,2023,0.0567,0.0658,2,2,1,0.2833,kuintal
+AGRI-0438,Wukirsari,PAD-044,Bulaksalak,Bawang Merah,Hortikultura,2024,0.0017,0.002,2,1,1,0.11,kuintal
+AGRI-0439,Argomulyo,PAD-016,Gadingan,Kencur,Tanaman Obat,2023,0.0306,0.035,2,1,1,0.1176,kuintal
+AGRI-0440,Argomulyo,PAD-020,Dliring,Bawang Merah,Hortikultura,2024,0.0026,0.0031,2,1,1,0.19,kuintal
+AGRI-0441,Wukirsari,PAD-035,Selorejo,Kencur,Tanaman Obat,2023,0.0681,0.0798,2,2,1,0.3875,kuintal
+AGRI-0442,Glagaharjo,PAD-051,Gading,Kencur,Tanaman Obat,2023,0.0457,0.0544,2,1,1,0.2253,kuintal
+AGRI-0443,Wukirsari,PAD-026,Sruni,Kencur,Tanaman Obat,2023,0.0244,0.0327,3,3,1,0.0958,kuintal
+AGRI-0444,Argomulyo,PAD-007,Kebur Kidul,Cabai Keriting,Hortikultura,2024,1.1246,1.444,13,10,2,84.21,kuintal
+AGRI-0445,Argomulyo,PAD-020,Dliring,Kencur,Tanaman Obat,2023,0.0474,0.0545,3,2,1,0.2937,kuintal
+AGRI-0446,Wukirsari,PAD-024,Glagahwero,Kencur,Tanaman Obat,2023,0.147,0.1705,3,2,1,0.7394,kuintal
+AGRI-0447,Wukirsari,PAD-042,Ngepringan,Kunyit,Tanaman Obat,2023,0.1585,0.2003,2,1,1,0.934,kuintal
+AGRI-0448,Wukirsari,PAD-040,Duwet,Cabai Besar/TW/Teropong,Hortikultura,2024,1.8316,2.0789,16,9,2,137.0,kuintal
+AGRI-0449,Glagaharjo,PAD-052,Glagah Malang,Kencur,Tanaman Obat,2023,0.1141,0.1539,3,2,1,0.3941,kuintal
+AGRI-0450,Wukirsari,PAD-028,Rejosari,Cabai Keriting,Hortikultura,2024,1.5559,1.7707,19,13,2,166.59,kuintal
+AGRI-0451,Wukirsari,PAD-031,Kiyaran,Kencur,Tanaman Obat,2023,0.1582,0.1807,4,3,1,0.8543,kuintal
+AGRI-0452,Wukirsari,PAD-039,Cakran,Kencur,Tanaman Obat,2023,0.0286,0.0354,2,1,1,0.1638,kuintal
+AGRI-0453,Argomulyo,PAD-021,Gayam,Kunyit,Tanaman Obat,2023,0.1809,0.2274,2,2,1,0.9619,kuintal
+AGRI-0454,Argomulyo,PAD-003,Panggung,Kencur,Tanaman Obat,2023,0.0545,0.0626,2,1,1,0.2687,kuintal
+AGRI-0455,Glagaharjo,PAD-049,Srunen,Cabai Besar/TW/Teropong,Hortikultura,2024,0.392,0.5032,5,3,1,36.93,kuintal
+AGRI-0456,Umbulharjo,PAD-066,Pangukrejo,Bawang Merah,Hortikultura,2024,0.0233,0.0296,2,1,1,2.23,kuintal
+AGRI-0457,Argomulyo,PAD-022,Mudal,Jahe,Tanaman Obat,2023,0.2865,0.3221,2,2,1,2.3069,kuintal
+AGRI-0458,Wukirsari,PAD-026,Sruni,Cabai Besar/TW/Teropong,Hortikultura,2024,0.7175,0.9231,10,5,1,79.45,kuintal
+AGRI-0459,Argomulyo,PAD-004,Kliwang,Kunyit,Tanaman Obat,2023,0.2314,0.3054,2,1,1,0.9695,kuintal
+AGRI-0460,Argomulyo,PAD-021,Gayam,Cabai Besar/TW/Teropong,Hortikultura,2024,1.303,1.409,10,7,1,77.33,kuintal
+AGRI-0461,Wukirsari,PAD-023,Karangpakis,Bawang Merah,Hortikultura,2024,0.0094,0.0126,2,1,1,0.59,kuintal
+AGRI-0462,Argomulyo,PAD-014,Suruh,Cabai Besar/TW/Teropong,Hortikultura,2024,0.9577,1.1208,10,5,1,66.66,kuintal
+AGRI-0463,Umbulharjo,PAD-069,Balong,Cabai Keriting,Hortikultura,2024,0.34,0.4286,5,3,1,30.69,kuintal
+AGRI-0464,Kepuharjo,PAD-057,Kaliadem,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3877,0.4871,5,4,1,22.78,kuintal
+AGRI-0465,Wukirsari,PAD-034,Bedoyo,Cabai Besar/TW/Teropong,Hortikultura,2024,1.6894,1.8565,19,9,2,220.94,kuintal
+AGRI-0466,Kepuharjo,PAD-062,Pagerjurang,Cabai Keriting,Hortikultura,2024,0.2653,0.3505,2,1,1,26.39,kuintal
+AGRI-0467,Umbulharjo,PAD-065,Pelemsari,Bawang Merah,Hortikultura,2024,0.0087,0.0116,2,2,1,0.68,kuintal
+AGRI-0468,Kepuharjo,PAD-059,Petung,Kunyit,Tanaman Obat,2023,0.1096,0.1231,2,2,1,0.7776,kuintal
+AGRI-0469,Kepuharjo,PAD-061,Batur,Kunyit,Tanaman Obat,2023,0.0333,0.0412,2,1,1,0.1729,kuintal
+AGRI-0470,Argomulyo,PAD-012,Karanglo,Jahe,Tanaman Obat,2023,0.3274,0.3964,3,2,1,4.0266,kuintal
+AGRI-0471,Umbulharjo,PAD-067,Gondang,Bawang Merah,Hortikultura,2024,0.0102,0.0122,2,2,1,0.84,kuintal
+AGRI-0472,Argomulyo,PAD-022,Mudal,Kencur,Tanaman Obat,2023,0.0529,0.0616,2,2,1,0.3567,kuintal
+AGRI-0473,Argomulyo,PAD-013,Jetis,Cabai Keriting,Hortikultura,2024,0.4211,0.5197,3,2,1,39.99,kuintal
+AGRI-0474,Argomulyo,PAD-022,Mudal,Bawang Merah,Hortikultura,2024,0.0119,0.0156,2,1,1,0.72,kuintal
+AGRI-0475,Argomulyo,PAD-013,Jetis,Kencur,Tanaman Obat,2023,0.0475,0.0596,2,1,1,0.1943,kuintal
+AGRI-0476,Wukirsari,PAD-038,Salam Krajan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.4679,0.6047,4,3,1,44.43,kuintal
+AGRI-0477,Kepuharjo,PAD-060,Kopeng,Kencur,Tanaman Obat,2023,0.0634,0.0774,2,2,1,0.3452,kuintal
+AGRI-0478,Argomulyo,PAD-015,Bakalan,Bawang Merah,Hortikultura,2024,0.0097,0.0105,2,1,1,0.97,kuintal
+AGRI-0479,Argomulyo,PAD-017,Banaran,Cabai Keriting,Hortikultura,2024,0.848,1.0525,11,10,1,104.1,kuintal
+AGRI-0480,Kepuharjo,PAD-060,Kopeng,Cabai Keriting,Hortikultura,2024,1.0452,1.171,8,5,1,95.22,kuintal
+AGRI-0481,Glagaharjo,PAD-051,Gading,Bawang Merah,Hortikultura,2024,0.0072,0.0085,2,2,1,0.69,kuintal
+AGRI-0482,Wukirsari,PAD-038,Salam Krajan,Bawang Merah,Hortikultura,2024,0.0071,0.0089,2,1,1,0.44,kuintal
+AGRI-0483,Argomulyo,PAD-007,Kebur Kidul,Kunyit,Tanaman Obat,2023,0.0672,0.087,3,3,1,0.2229,kuintal
+AGRI-0484,Argomulyo,PAD-002,Kuwang,Jahe,Tanaman Obat,2023,0.0669,0.0748,2,2,1,0.7235,kuintal
+AGRI-0485,Wukirsari,PAD-029,Sempon,Cabai Rawit,Hortikultura,2024,0.9035,1.1035,9,7,1,81.93,kuintal
+AGRI-0486,Glagaharjo,PAD-050,Singlar,Cabai Keriting,Hortikultura,2024,0.6373,0.7419,7,5,1,69.43,kuintal
+AGRI-0487,Glagaharjo,PAD-055,Banjarsari,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3032,0.39,2,1,1,28.38,kuintal
+AGRI-0488,Umbulharjo,PAD-069,Balong,Bawang Merah,Hortikultura,2024,0.0097,0.0119,3,3,1,0.81,kuintal
+AGRI-0489,Argomulyo,PAD-007,Kebur Kidul,Cabai Besar/TW/Teropong,Hortikultura,2024,0.9154,0.9923,8,4,1,75.54,kuintal
+AGRI-0490,Argomulyo,PAD-019,Jiwan,Kencur,Tanaman Obat,2023,0.0294,0.0358,2,1,1,0.1637,kuintal
+AGRI-0491,Argomulyo,PAD-015,Bakalan,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3282,0.4188,4,3,1,22.63,kuintal
+AGRI-0492,Wukirsari,PAD-031,Kiyaran,Bawang Merah,Hortikultura,2024,0.0247,0.0331,2,2,1,2.02,kuintal
+AGRI-0493,Wukirsari,PAD-027,Sintokan,Cabai Keriting,Hortikultura,2024,0.1168,0.1495,2,2,1,15.5,kuintal
+AGRI-0494,Umbulharjo,PAD-067,Gondang,Kunyit,Tanaman Obat,2023,0.0794,0.1027,4,3,1,0.4145,kuintal
+AGRI-0495,Umbulharjo,PAD-069,Balong,Cabai Besar/TW/Teropong,Hortikultura,2024,0.3259,0.4233,5,3,1,25.15,kuintal
+AGRI-0496,Wukirsari,PAD-041,Gungan,Bawang Merah,Hortikultura,2024,0.0125,0.0158,2,2,1,0.9,kuintal
+AGRI-0497,Wukirsari,PAD-039,Cakran,Cabai Besar/TW/Teropong,Hortikultura,2024,1.707,1.8748,15,11,2,147.24,kuintal
+AGRI-0498,Glagaharjo,PAD-053,Jetis Sumur,Kunyit,Tanaman Obat,2023,0.0303,0.0349,2,1,1,0.207,kuintal
+AGRI-0499,Argomulyo,PAD-001,Randusari,Kencur,Tanaman Obat,2023,0.0872,0.0993,2,1,1,0.4239,kuintal
+AGRI-0500,Wukirsari,PAD-030,Ngemplak,Kunyit,Tanaman Obat,2023,0.0388,0.0444,2,2,1,0.1771,kuintal
+AGRI-0501,Wukirsari,PAD-041,Gungan,Kunyit,Tanaman Obat,2023,0.0337,0.0454,2,1,1,0.1553,kuintal
+AGRI-0502,Argomulyo,PAD-014,Suruh,Jahe,Tanaman Obat,2023,0.1524,0.1888,3,2,1,1.8631,kuintal
+AGRI-0503,Glagaharjo,PAD-053,Jetis Sumur,Bawang Merah,Hortikultura,2024,0.0048,0.0054,2,2,1,0.41,kuintal
+AGRI-0504,Argomulyo,PAD-006,Kebur Lor,Kunyit,Tanaman Obat,2023,0.0882,0.1086,5,4,1,0.4361,kuintal
+AGRI-0505,Argomulyo,PAD-009,Brongkol,Kunyit,Tanaman Obat,2023,0.0914,0.1164,2,1,1,0.4024,kuintal
+AGRI-0506,Argomulyo,PAD-012,Karanglo,Cabai Keriting,Hortikultura,2024,1.1912,1.3891,14,9,2,97.95,kuintal
+AGRI-0507,Wukirsari,PAD-031,Kiyaran,Cabai Rawit,Hortikultura,2024,2.136,2.5832,19,14,2,146.71,kuintal
+AGRI-0508,Glagaharjo,PAD-054,Ngancar,Cabai Keriting,Hortikultura,2024,1.9433,2.4903,18,13,2,141.06,kuintal
+AGRI-0509,Glagaharjo,PAD-048,Kalitengah Kidul,Kunyit,Tanaman Obat,2023,0.1558,0.1815,4,3,1,0.6898,kuintal
+AGRI-0510,Argomulyo,PAD-022,Mudal,Cabai Keriting,Hortikultura,2024,0.3725,0.4385,2,1,1,33.17,kuintal
+AGRI-0511,Argomulyo,PAD-021,Gayam,Bawang Merah,Hortikultura,2024,0.0206,0.0273,2,2,1,1.88,kuintal

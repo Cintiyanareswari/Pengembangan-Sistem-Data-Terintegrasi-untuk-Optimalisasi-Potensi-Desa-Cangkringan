@@ -1,0 +1,62 @@
+﻿kategori,dataset,pemeriksaan,status,detail
+Standardized,Data_produksi_pupuk,File tersedia,LOLOS,66 baris dan 18 kolom
+Primary Key,produksi,produksi_id,LOLOS,ID lengkap dan unik
+Jumlah Data,produksi,Jumlah baris,LOLOS,66 baris sesuai jumlah yang diharapkan
+Kelengkapan,produksi,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,produksi,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Bahan_Organik,File tersedia,LOLOS,88 baris dan 16 kolom
+Primary Key,organik,ketersediaan_id,LOLOS,ID lengkap dan unik
+Jumlah Data,organik,Jumlah baris,LOLOS,88 baris sesuai jumlah yang diharapkan
+Kelengkapan,organik,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,organik,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Produk_Katalog,File tersedia,LOLOS,11 baris dan 12 kolom
+Primary Key,katalog,produk_id,LOLOS,ID lengkap dan unik
+Jumlah Data,katalog,Jumlah baris,LOLOS,11 baris sesuai jumlah yang diharapkan
+Kelengkapan,katalog,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,katalog,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Penjualan,File tersedia,LOLOS,792 baris dan 10 kolom
+Primary Key,penjualan,Penjualan_id,LOLOS,ID lengkap dan unik
+Jumlah Data,penjualan,Jumlah baris,LOLOS,792 baris sesuai jumlah yang diharapkan
+Kelengkapan,penjualan,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,penjualan,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Wilayah_Kalurahan,File tersedia,LOLOS,5 baris dan 16 kolom
+Primary Key,kalurahan,kalurahan_id,LOLOS,ID lengkap dan unik
+Jumlah Data,kalurahan,Jumlah baris,LOLOS,5 baris sesuai jumlah yang diharapkan
+Kelengkapan,kalurahan,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,kalurahan,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Wilayah_Padukuhan,File tersedia,LOLOS,73 baris dan 8 kolom
+Primary Key,padukuhan,padukuhan_id,LOLOS,ID lengkap dan unik
+Jumlah Data,padukuhan,Jumlah baris,LOLOS,73 baris sesuai jumlah yang diharapkan
+Kelengkapan,padukuhan,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,padukuhan,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Standardized,Data_Pertanian,File tersedia,LOLOS,511 baris dan 14 kolom
+Primary Key,pertanian,agri_id,LOLOS,ID lengkap dan unik
+Jumlah Data,pertanian,Jumlah baris,LOLOS,511 baris sesuai jumlah yang diharapkan
+Kelengkapan,pertanian,Nilai kosong,LOLOS,Tidak ditemukan nilai kosong
+Duplikasi,pertanian,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Integrated,pertanian_terintegrasi,File tersedia,LOLOS,511 baris dan 25 kolom
+Integrated,bahan_organik_terintegrasi,File tersedia,LOLOS,88 baris dan 24 kolom
+Integrated,produksi_terintegrasi,File tersedia,LOLOS,66 baris dan 29 kolom
+Integrated,penjualan_terintegrasi,File tersedia,LOLOS,792 baris dan 22 kolom
+Foreign Key,pertanian,padukuhan_id,LOLOS,Semua nilai terhubung ke tabel padukuhan
+Foreign Key,organik,padukuhan_id,LOLOS,Semua nilai terhubung ke tabel padukuhan
+Foreign Key,produksi,produk_id,LOLOS,Semua nilai terhubung ke tabel katalog
+Foreign Key,penjualan,Produk_id,LOLOS,Semua nilai terhubung ke tabel katalog
+Foreign Key,pertanian_integrasi,kalurahan_id,LOLOS,Semua nilai terhubung ke tabel kalurahan
+Foreign Key,organik_integrasi,kalurahan_id,LOLOS,Semua nilai terhubung ke tabel kalurahan
+Jumlah Data,pertanian_integrasi,Jumlah baris,LOLOS,511 baris sesuai jumlah yang diharapkan
+Primary Key,pertanian_integrasi,agri_id,LOLOS,ID lengkap dan unik
+Struktur,pertanian_integrasi,Kolom integrasi,LOLOS,Semua kolom wajib tersedia
+Duplikasi,pertanian_integrasi,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Jumlah Data,organik_integrasi,Jumlah baris,LOLOS,88 baris sesuai jumlah yang diharapkan
+Primary Key,organik_integrasi,ketersediaan_id,LOLOS,ID lengkap dan unik
+Struktur,organik_integrasi,Kolom integrasi,LOLOS,Semua kolom wajib tersedia
+Duplikasi,organik_integrasi,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Jumlah Data,produksi_integrasi,Jumlah baris,LOLOS,66 baris sesuai jumlah yang diharapkan
+Primary Key,produksi_integrasi,produksi_id,LOLOS,ID lengkap dan unik
+Struktur,produksi_integrasi,Kolom integrasi,LOLOS,Semua kolom wajib tersedia
+Duplikasi,produksi_integrasi,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh
+Jumlah Data,penjualan_integrasi,Jumlah baris,LOLOS,792 baris sesuai jumlah yang diharapkan
+Primary Key,penjualan_integrasi,Penjualan_id,LOLOS,ID lengkap dan unik
+Struktur,penjualan_integrasi,Kolom integrasi,LOLOS,Semua kolom wajib tersedia
+Duplikasi,penjualan_integrasi,Duplikasi baris,LOLOS,Tidak ditemukan baris duplikat penuh

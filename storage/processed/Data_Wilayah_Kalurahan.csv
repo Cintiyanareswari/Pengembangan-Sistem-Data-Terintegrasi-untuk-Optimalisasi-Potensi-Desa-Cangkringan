@@ -1,0 +1,6 @@
+﻿kalurahan_id,kalurahan,luas_kalurahan_ha,jumlah_padukuhan,jumlah_rw,jumlah_rt,batas_utara,batas_selatan,batas_barat,batas_timur,jarak_kecamatan_km,jarak_kabupaten_km,jarak_provinsi_km,jarak_nasional_km,latitude,longitude
+KAL-001,Argomulyo,847,22,44,91,"Glagaharjo, Wukirsari","Sindumartani, Bimomartani, Kec. Ngemplak",Wukirsari,"Kepurun, Kec. Manisrenggo, Kab. Klaten",0.1,20,27,530,-7.66833,110.46028
+KAL-002,Wukirsari,1456,24,50,103,"Umbulharjo, Kepuharjo","Umbulmartani, Widodomartani, Kec. Ngemplak","Pakembinangun, Kec. Pakem","Argomulyo, Glagaharjo",2.7,17,25,528,-7.657916,110.443836
+KAL-003,Glagaharjo,795,10,20,41,"Kec. Selo, Kab. Boyolali",Argomulyo,"Wukirsari, Kepuharjo","Panggang, Bawukan, Balerante, Kec. Kemalang, Kab. Klaten",3.0,23,30,533,-7.6482628,110.4684501
+KAL-004,Kepuharjo,875,8,16,33,"Kec. Selo, Kab. Boyolali",Wukirsari,Umbulharjo,Glagaharjo,7.0,28,32,535,-7.62516805,110.45238557
+KAL-005,Umbulharjo,826,9,20,40,"Kec. Selo, Kab. Boyolali",Wukirsari,"Hargobinangun, Kec. Pakem",Kepuharjo,8.0,21,29,530,-7.625827,110.433399
