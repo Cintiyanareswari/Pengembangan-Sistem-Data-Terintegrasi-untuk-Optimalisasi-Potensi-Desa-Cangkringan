@@ -26,11 +26,13 @@ def get_analisis_organik(db: Session):
 def get_ranking_organik(db: Session):
     query = text("""
         SELECT
-            peringkat,
+            ROW_NUMBER() OVER (
+                ORDER BY skor_akhir DESC
+            ) AS peringkat,
             jenis_bahan_organik,
             skor_akhir
-        FROM ranking_organik
-        ORDER BY peringkat ASC
+        FROM hasil_scoring_organik
+        ORDER BY skor_akhir DESC
     """)
 
     result = db.execute(query).mappings().all()
